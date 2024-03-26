@@ -36,6 +36,9 @@ def extract_genbank_info(record):
     host_info = ""
     lab_host_info = ""
     isolation_source = ""
+    country = ""
+    collection_date = ""
+    host_health = ''
     for feature in record.features:
         if feature.type == "source":
             qualifiers = feature.qualifiers
@@ -45,7 +48,14 @@ def extract_genbank_info(record):
                 lab_host_info = ', '.join(qualifiers["lab_host"])
             if "isolation_source" in qualifiers:
                 isolation_source = ', '.join(qualifiers["isolation_source"])
-    return host_info, lab_host_info, isolation_source
+            if "collection_date" in qualifiers:
+                collection_date = ', '.join(qualifiers["collection_date"])
+            if "host_health" in qualifiers:
+                host_health = ', '.join(qualifiers["host_health"])
+            if "country" in qualifiers:
+                country = ', '.join(qualifiers["country"])
+    return host_info, lab_host_info, isolation_source, country, collection_date, host_health
+    #return host_info, lab_host_info, isolation_source
 
 #extract the biosample accession number from a genbank record
 def get_biosample_accession(genbank_accessions):
@@ -103,7 +113,7 @@ def extract_biosample_information(xml_data, genbank_accession):
         harmonized_name = attr.attrib.get('harmonized_name')
         #print(harmonized_name)
         # Only interested in the certain attribute names
-        if 'host' in harmonized_name or 'isolation_source' in harmonized_name or 'lab_host' in harmonized_name or 'host_common_name' in harmonized_name:
+        if 'host' in harmonized_name or 'isolation_source' in harmonized_name or 'lab_host' in harmonized_name or 'host_common_name' in harmonized_name or 'host_health_state' in harmonized_name or 'collection_date' in harmonized_name or 'geo_loc_name' in harmonized_name:
             # print(attribute_name)
             attribute_value = attr.text
             # print(attribute_value)
@@ -113,7 +123,7 @@ def extract_biosample_information(xml_data, genbank_accession):
 
 def main():
 
-        file_path = "/Users/rbhattac/Desktop/BVBRC_genome-6.csv"  #path to your genome group csv file
+        file_path = "/Users/rbhattac/Desktop/Curation/misc/Host_Biosample.csv"  #path to your genome group csv file
         #extract the accession numbers
         accession_numbers = extract_accessions(file_path)
         #accession_numbers=['KT844544']
@@ -126,8 +136,11 @@ def main():
             csv_writer = csv.writer(csvfile)
             # Write header
             csv_writer.writerow(
-                ["Accession", "Genbank Host", "Genbank Lab Host","Genbank Isolation Source","Biosample_accession", "Biosample Host Common Name", "Biosample Lab Host",
-                 "Biosample Host Scientific Name", "Biosample Isolation Source"])
+                ["Accession", "Genbank Host", "Genbank Lab Host", "Genbank Isolation Source", "Genbank Collection Date",
+                 "Genbank Geographic Location", "Genbank Host Health", "Biosample_accession",
+                 "Biosample Host Common Name", "Biosample Lab Host",
+                 "Biosample Host Scientific Name", "Biosample Isolation Source", "Biosample Collection Date",
+                 "Biosample Geographic Location", "Biosample Host Health"])
 
             for accession in accession_numbers:
                 #print(accession)
@@ -136,7 +149,7 @@ def main():
                 if record:
                     accession_id = accession
                     # Extract selected genbank metadata information
-                    host_info, lab_host_info, isolation_source = extract_genbank_info(record)
+                    host_info, lab_host_info, isolation_source, country, collection_date, host_health = extract_genbank_info(record)
                     #genbank_metadata.append([accession_id, host_info, lab_host_info, isolation_source])
 
                 # Extract BioSample information
@@ -147,6 +160,9 @@ def main():
                 biosample_isolation_source = ''
                 biosample_scientific_names = []  # Initialize biosample_scientific_names
                 bio_accession ='' # Initialize biosample accession
+                biosample_host_health = ''
+                bio_geo_loc = ''
+                bio_collection_date = ''
 
                 for bioid in biosample_accession:
                     biosample_xml = get_biosample_record(bioid)
@@ -170,6 +186,12 @@ def main():
                             # Check if attribute is host scientific name or scientific_name
                             if 'host' in extracted_info:
                                 biosample_scientific_names.append(extracted_info['host'])
+                            if 'collection_date' in extracted_info:
+                                bio_collection_date = (extracted_info['collection_date'])
+                            if 'geo_loc_name' in extracted_info:
+                                bio_geo_loc = (extracted_info['geo_loc_name'])
+                            if 'host_health_state' in extracted_info:
+                                biosample_host_health = (extracted_info['host_health_state'])
                             # elif 'scientific_name' in extracted_info:
                             #   biosample_scientific_names.append(extracted_info['scientific_name'])
                             # elif 'host' in extracted_info:
@@ -184,24 +206,16 @@ def main():
                     else:
                         print(f"No record found for BioSample accession {biosample_accession}")
                 # Write data to CSV
-                csv_writer.writerow([accession, host_info, lab_host_info,isolation_source,bio_accession, biosample_host_info, biosample_lab_host_info,
-                             ", ".join(biosample_scientific_names), biosample_isolation_source])
+                #csv_writer.writerow([accession, host_info, lab_host_info,isolation_source,bio_accession, biosample_host_info, biosample_lab_host_info,
+                            # ", ".join(biosample_scientific_names), biosample_isolation_source])
+                csv_writer.writerow(
+                    [accession, host_info, lab_host_info, isolation_source, collection_date, country, host_health,
+                     bio_accession, biosample_host_info, biosample_lab_host_info,
+                     (", ".join(biosample_scientific_names)), biosample_isolation_source, bio_collection_date,
+                     bio_geo_loc, biosample_host_health])
 
-                #all_biosample_info.append(extracted_info)
 
-        # print(f"Compiling all the extracted metadata...")
-        # #print(genbank_metadata)
-        # df1= pd.DataFrame(genbank_metadata, columns = ['GenBank Accession', 'GenBank_Host', 'GenBank_Lab Host', 'GenBank_Isolation Source'])
-        # #print(df1)
-        # df2 = pd.DataFrame(all_biosample_info)
-        # #print(df2)
-        #
-        # df_merged = df1.merge(df2, on='GenBank Accession', how='left')
-        # #print(df_merged)
-        #
-        # # Save the dataframe to a CSV file
-        # print(f"Printing the results to a csv file... ")
-        # df_merged.to_csv('/Users/rbhattac/Desktop/Host_biosample_results.csv', index=False)
+
 
 
 if __name__ == "__main__":
