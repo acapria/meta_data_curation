@@ -1,0 +1,1900 @@
+IS_match	query_string	flags	MANUAL_match	LH_match
+	A549	LH		a549
+NP	A549 Npro	LH/IS		a549
+	allantoic fluid			
+	B2	LH		B2
+	B95a	LH		b95a
+	BGM	LH		bgm
+	BHK	LH		BHK
+	BHK-21	LH		BHK
+	BSR	LH		bsr
+	BSR2	LH		bsr
+	C57BL mouse	MANUAL	mouse	
+	ECE/C6-36/BHK-BSR	LH		BHK
+	C6-36-3, 14 Feb18	LH		c6-36
+	C6/36	LH		c6/36
+CLO	Aedes albopictus clone C6/36	LH/IS		c6/36
+	Aedes albopictus C636	LH		c636
+	C636	LH		c636
+	CAM	LH		cam
+	Canis familiaris	LH		Canis familiaris
+	CBA/J mouse	MANUAL	mouse	
+	Huh-7.5 cell line	LH		cell
+	RD cell line	LH		cell
+	Vero cell	LH		cell
+	cell culture	LH		cell
+	MDCK cell culture	LH		cell
+	RD-SCARB2 cell line	LH		B2
+kidney	Buffalo green monkey kidney continuous cell line (BGM) (ECAAC 90092601)	LH/IS		bgm
+	MA104 cell line	LH		cell
+	Vero cell line	LH		cell
+	C6/36 mosquito cell line, passage 1	LH		c6/36
+liver	Chicken embryo liver cell	LH/IS		cell
+	RD cell	LH		cell
+	rhesus monkey cell line	LH		cell
+lung	A549 Human lung carcinoma cell line	LH/IS		a549
+	Chlorocebus sabaeus vero cell	LH		cell
+	cell line Vero/SLAM	LH		cell
+	cell line MA104	LH		cell
+	BSR cell culture	LH		bsr
+	MNA cell culture	LH		cell
+	C6/36 Aedes albopictus cell	LH		c6/36
+	LMH cell line	LH		cell
+	human RDA (rhabdomyosarcoma) cell	LH		cell
+	Aedes albopictus C6/36 cell culture	LH		c6/36
+	Aedes albopictus; C6/36 cell line	LH		c6/36
+	C6/36 cell line	LH		c6/36
+	EPC cell line	LH		cell
+	Hep-2 cell line	LH		cell
+	Vero cell culture	LH		cell
+liver	chicken embryo liver cell	LH/IS		cell
+	LLC-MK2 cell culture	LH		cell
+	L20 cell Line	LH		cell
+	Lepomis macrochirus BF-2 cell line	LH		cell
+	cell culture from Aedes albopictus C6/36	LH		c6/36
+CLO	BHK-21 cell clone BSR	LH/IS		BHK
+	Huh7.5 human hepatoma cell line	LH		cell
+	IRE/CTVM19 cell line	LH		cell
+	Vero Cell	LH		cell
+kidney	chicken kidney cell (CKC) culture	LH/IS		cell
+	C6/36 HT Aedes albopictus cell line	LH		c6/36
+	Canis lupus familiaris, MDCK cell line	LH		cell
+	Hep2 cell line	LH		cell
+muscle	Homo sapiens muscle rhabdomyosarcoma cell line (RD)	LH/IS		cell
+	PEL cell line from AIDS patient	LH		cell
+	ST cell	LH		cell
+	cell line MRC-5	LH		cell
+	MRC-5 cell culture	LH		cell
+	Rhesus monkey cell line	LH		cell
+	HEP-2 cell culture	LH		cell
+ns	Homo sapiens, cell line: A549	LH/IS		a549
+kidney	Rhesus monkey kidney cell line LLC-MK2	LH/IS		cell
+kidney	primary chicken embryo kidney cell	LH/IS		cell
+	BHK-21 cell	LH		BHK
+	CEF (chicken embryo fibroblast cell)	LH		cell
+	Vero E6 cell line	LH		cell
+	Vero-E6 cell line	LH		cell
+	lamb testicular cell line	LH		cell
+	primary bovine testicle cell culture	LH		cell
+CLO	Aedes albopictus clone C6/36 cell line	LH/IS		c6/36
+	BHK-21 cell line	LH		BHK
+	Chlorocebus aethiops Vero cell	LH		cell
+	Hep-2 cell	LH		cell
+ns	Homo sapiens A549 cell line	LH/IS		a549
+	MRC-5 cell line	LH		cell
+	PK-15 cell line	LH		cell
+	primary sheep testicle cell	LH		cell
+	primary testicular cell culture	LH		cell
+	rhesus monkey cell line or human colon carcinoma	LH		cell
+	CRFK cell line	LH		cell
+	Chlorocebus aethiops Vero cell line	LH		cell
+	HEp-2 cell	LH		cell
+	Homo sapien cell line MRC-5	LH		cell
+	MDBK cell line	LH		cell
+	PK15 cell	LH		cell
+	ST cell line	LH		cell
+	bovine oesophagus cell line KOP	LH		cell
+	lamb testicles cell culture	LH		cell
+	vero cell	LH		cell
+	Aedes albopictus C6/36 cell	LH		c6/36
+	C6/36 mosquito cell line	LH		c6/36
+	Gallus domesticus lymphoblastoid cell line MKT-1	LH		cell
+	HeLa cell	LH		cell
+	Hep-2 cell culture	LH		cell
+	IBRS-2 cell line	LH		cell
+	Ixodes ricinus cell line IRE/CTVM19	LH		cell
+	Japanese quail embryo cell culture	LH		cell
+	LMH cell	LH		cell
+	MDCK cells	LH		cell
+	mammalian cells	LH		cell
+	Canis lupus familiaris MDCK cells	LH		cell
+	Vero cells	LH		cell
+	Culicoides cells	LH		cell
+	L929 cells	LH		cell
+	VeroE6 cells	LH		cell
+liver	Chicken embryo liver cells	LH/IS		cell
+	C6/36 cells	LH		c6/36
+	MA104 cells	LH		cell
+	BHK-21 cells	LH		BHK
+	Vero E6 cells	LH		cell
+	Culicoides -mammalian cells	LH		cell
+	A72 cells	LH		cell
+	RD cells	LH		cell
+kidney	PEK cells (porcine embryotic kidney)	LH/IS		cell
+	vero cells	LH		cell
+	Hep-2 cells	LH		cell
+	lamb testis cells	LH		cell
+	B95a cells	LH		b95a
+	FRhL2 cells	LH		cell
+	HeLa cells	LH		cell
+	PK-15 cells	LH		cell
+	A549 cells	LH		a549
+	Vero C1008 (E6) cells	LH		cell
+	ST cells	LH		cell
+	C636 cells	LH		c636
+	293 cells	LH		cell
+kidney	porcine kidney cells	LH/IS		cell
+kidney	BHK cells (baby hamster kidney)	LH/IS		BHK
+	Vero/SLAM cells	LH		cell
+kidney	baby hamster kidney cells (BHK)	LH/IS		BHK
+	HEp-2 cells	LH		cell
+kidney	Porcine Kidney Cells	LH/IS		cell
+	vero E6 cells	LH		cell
+	BSC-40 cells	LH		cell
+	MNA cells	LH		cell
+	MA-104 cells	LH		cell
+	Vero-B4 cells	LH		cell
+	PK15 cells	LH		cell
+	Vero-E6 cells	LH		cell
+	mosquito C636 cells	LH		c636
+ns	Insect-mammalian cells	LH/IS		cell
+	V76 cells	LH		cell
+	Vero B4 cells	LH		cell
+kidney	myotis primary kidney cells	LH/IS		cell
+	BHK 21J cells	LH		BHK
+	Huh7 cells	LH		cell
+	LCL cells	LH		cell
+	rhabdomyosarcoma RD cells	LH		cell
+	ASK cells	LH		cell
+	Aedes albopictus C636 cells	LH		c636
+	BHK cells	LH		BHK
+	Chlorocebus aethiops Vero cells	LH		cell
+FEC	MDCK cells infected with virus grown in embryonated chicken eggs	LH/IS		cell
+	SHK cells	LH		cell
+	SK6 cells	LH		cell
+	C6/36 Aedes albopictus cells	LH		c6/36
+	MDBK cells	LH		cell
+	Mesocricetus auratus HmLu cells	LH		cell
+kidney	Porcine kidney cells	LH/IS		cell
+	Vero E6 TMPRSS2 cells	LH		cell
+	BHK 21 cells	LH		BHK
+	BHK21 cells	LH		BHK
+	CDC Vero E6 cells	LH		cell
+	E6 Vero cells	LH		cell
+	FL cells	LH		cell
+	Mesocricetus auratus BHK-21 cells	LH		BHK
+kidney	grown in OMK cells (owl monkey kidney)	LH/IS		cell
+	primary sheep testicular cells	LH		cell
+	rhabdomyosarcoma cells	LH		cell
+	suckling mouse and CDC Vero E6 cells	MANUAL	mouse	cell
+	Cercopithecus aethiops Vero cells	LH		cell
+	MRC-5 cells	LH		cell
+	Rhileki cells	LH		cell
+	VERO cells	LH		cell
+	c6/36 cells	LH		c6/36
+liver	chicken embryo liver cells	LH/IS		cell
+	mosquito-C6/36 cells	LH		c6/36
+kidney	porcine embryo kidney (PS) cells	LH/IS		cell
+	rhabdomyosarcoma (RD) cells	LH		cell
+	swine PK15 cells	LH		cell
+heart	terrapene heart cells; TH-1; ATCC CCL-50	LH/IS		cell
+	Aag2 cells	LH		cell
+	B-Vero cells	LH		cell
+	B-cells	LH		cell
+kidney	Ceropithicus aethiops kidney epithelial cells Vero E6	LH/IS		cell
+kidney	LLC porcine kidney cells	LH/IS		cell
+kidney	Madin-Darby canine kidney (MDCK) cells	LH/IS		cell
+	Vero_E6_cells	LH		cell
+kidney	African green monkey kidney epithelium cells	LH/IS		cell
+	CER cells	LH		cell
+	CRFK cells	LH		cell
+	HEp2 cells	LH		cell
+ns	Homo sapiens rhabdomyosarcoma cells	LH/IS		cell
+	LLC-MK2 cells	LH		cell
+	LLC-PK cells	LH		cell
+kidney	Mastomys natalensis kidney epithelial cells	LH/IS		cell
+FEC	Medium LLC-MK2 infected cells	LH/IS		cell
+kidney	PKE (pig kidney embryo) cells	LH/IS		cell
+	PS-EK cells	LH		cell
+	Porcine Mesenchymal Stem Cells	LH		cell
+liver	Primary chicken embryo liver cells	LH/IS		cell
+kidney	Rabbit Kidney 13 cells	LH/IS		cell
+	Rhabdomyosarcoma cells	LH		cell
+	SW13 cells	LH		cell
+kidney	owl monkey kidney cells	LH/IS		cell
+kidney	pig kidney embryo (PKE) cells	LH/IS		cell
+	BSC40 cells	LH		cell
+kidney	Bos taurus, Mardin-Darby bovine kidney cells	LH/IS		cell
+	C6/36 HT cells	LH		c6/36
+ns	C6/36 insect cells	LH/IS		c6/36
+	Canis familiaris MDCK cells	LH		Canis familiaris
+	Cercopithecus aethiops BSC40 cells	LH		cell
+kidney	Ceropithicus aethips kidney epithelial cells	LH/IS		cell
+kidney	Crandell Rees feline kidney cells	LH/IS		cell
+	HRT-18 cells	LH		cell
+	HepG2/C3A cells	LH		cell
+ns	Homo sapiens HuTu 80 cells	LH/IS		cell
+ns	Homo sapiens RD-18S cells	LH/IS		cell
+	Huh 7 cells	LH		cell
+	Huh7.5 cells	LH		cell
+	ISE6 cells	LH		cell
+	KMB17 cells	LH		cell
+kidney	MDBK bovine epithelial kidney cells; ATCC CCL-22	LH/IS		cell
+	MDBK-cells	LH		cell
+	pk-15 cells	LH		cell
+kidney	primary Rhesus monkey kidney cells	LH/IS		cell
+	rhabdomyosarcoma cell	LH		cell
+ns	Homo sapiens Hep2 cells	LH/IS		cell
+ns	Homo sapiens, cell line: RD-A	LH/IS		cell
+ns	Homo sapiens RDA cell	LH/IS		cell
+	Canis lupus familiaris; MDCK cells	LH		cell
+stool	cell cultures (cell line MA104) from a stool sample obtained from a diarrheic 3-year-old female pig-tailed macaque	LH/IS		cell
+lung	6 serial lung passages in quail. Stock prepared in allantoic fluid E1 passage(s)	LH/IS		passage
+air	tertiairy Cynomolgus monkey kidney cells (tMK) and Homo sapiens muscle rhabdomyosarcoma cell line (RD)	LH/IS		cell
+	suckling mice and Vero cells	MANUAL	mice	cell
+FEC	BC-1; virally infected primary effusion lymphoma derived cell line	LH/IS		cell
+	mouse cell line L20B	MANUAL	mouse	cell
+	mouse L929 cell	MANUAL	mouse	cell
+	striped snakehead SSN-1 cell-line	LH		cell
+	RD (rhabdomyosarcoma) cells	LH		cell
+kidney	Cercopithecus aethiops kidney epithelial cells	LH/IS		cell
+	chicken embryo	LH		chicken embryo
+	CRFK	LH		crfk
+	IRE/CTVM19	LH		CTVM19
+	HAE/CTVM8	LH		HAE/CTVM8
+	E3	LH		e3
+	ECE	LH		ece
+	ECE BHK3	LH		BHK
+	egg-passaged vaccine	LH		egg
+	egg_passaged_vaccine	LH		egg
+	embryonated egg	LH		egg
+	embryonated chicken egg	LH		egg
+	embryonate chicken eggs	LH		egg
+	embryonated chicken eggs	LH		egg
+	SPF embryonated chicken eggs	LH		egg
+	embryonated eggs	LH		egg
+	SPF embryo eggs	LH		egg
+	egg innoculation	LH		egg
+	embryonated chicken eggs 1p and MDCKs 1p	LH		egg
+	SPF chicken embryonated eggs	LH		chicken embryo
+	embryonating chicken eggs	LH		egg
+	embryonic chicken egg	LH		egg
+ns	embryonated hens' eggs	LH/IS		egg
+	Embryonated chicken eggs	LH		egg
+	chick embryonated egg	LH		egg
+	Gallus gallus embryonated eggs	LH		egg
+	SPF Embryonated Chicken Eggs	LH		egg
+	10 days old SPF egg	LH		egg
+	egg	LH		egg
+	one-day-egg	LH		egg
+	specific pathogen-free (SPF) egg	LH		egg
+	Gallus gallus domesticus; embryonating egg	LH		egg
+	F81	LH		f81
+	muscovy duck embryonic fibroblasts	LH		fibroblast
+	duck embryo fibroblast primary culture	LH		fibroblast
+ns	Homo sapiens embryonic fibroblast	LH/IS		fibroblast
+	human foreskin fibroblasts	LH		fibroblast
+	FTA card	LH		FTA
+	FTA	LH		FTA
+	FTA Card	LH		FTA
+	Gallus gallus embryo			
+	Gn pig	LH		Gn pig
+	GSB	LH		GSB
+	H1 Hela	LH		hela
+	H1-HeLa	LH		hela
+	HeLa	LH		hela
+	HEp-2	LH		hep-2
+	Hep-2	LH		hep-2
+	HEp2	LH		hep2
+	Hep2	LH		hep2
+	HepG2/C3A	LH		hepg2
+	HRT18	LH		hrt18
+	Huh7	LH		huh7
+	Huh7.5	LH		huh7
+	IBRS-2	LH		ibrs-2
+	ICR Mouse	MANUAL	mouse	
+	L20B	LH		l20b
+	LFBKaVB6			
+	LK	LH		LK
+	LLC-MK2	LH		LLC-MK2
+	human B-lymphoblasts			
+	MA-104	LH		ma-104
+	MA104	LH		ma104
+	Ma104	LH		ma104
+kidney	kidney bovine Madin Darby	IS		
+kidney	Madin-Darby bovine kidney	LH/IS		Madin-Darby
+	Marc145	LH		Marc145
+	MDBK	LH		MDBK
+	MDCK	LH		mdck
+	chicken embryos 1p and MDCKs 1p	LH		chicken embryo
+	MDCK P1	LH		mdck
+	MDCK-SIAT1	LH		mdck
+brain	suckling mouse brain	MANUAL	mouse	
+brain	mouse brain culture	MANUAL	mouse	
+brain	Mus musculus (infected mouse brain)	MANUAL	mouse	
+brain	2-day-old SWR/J mouse brain tissue	MANUAL	mouse	
+kidney	Rhesus monkey kidney/MRC5	LH/IS		mrc
+	MRC	LH		mrc
+	MRC-5	LH		mrc
+	NA	LH		NA
+	NLBK			
+	none	LH		none
+	Mouse adapted 4 passage(s)	MANUAL	mouse	passage
+	Mouse adapted 8 passage(s)	MANUAL	mouse	passage
+	3 ferrets passage passage(s)	LH		passage
+	C2,ferret passage(s)	LH		passage
+	P0 passage(s)	LH		passage
+	E1 passage(s)	LH		passage
+	MDCK2 passage(s)	LH		mdck
+	Egg 1 passage(s)	LH		egg
+	egg passage(s)	LH		egg
+	MDCK1 passage(s)	LH		mdck
+	MDCK passage(s)	LH		mdck
+	MDCK 1 passage(s)	LH		mdck
+	R0 passage(s)	LH		passage
+	C1 passage(s)	LH		passage
+	Egg passage(s)	LH		egg
+	E2 passage(s)	LH		passage
+	RhMK 1 passage(s)	LH		passage
+	P1 passage(s)	LH		passage
+	PMK1 passage(s)	LH		passage
+	MDCKX,MDCK1 passage(s)	LH		mdck
+specimen	Primary Specimen passage(s)	LH/IS		passage
+OF	Sus scrofa	IS		
+	RhMK 2 passage(s)	LH		passage
+	egg 1 passage(s)	LH		egg
+	P2 passage(s)	LH		passage
+	E 1 passage(s)	LH		passage
+	Egg1 passage(s)	LH		egg
+	2nd pass MDCK passage(s)	LH		mdck
+	MDCK 2 passage(s)	LH		mdck
+	mdckx,mdck1 passage(s)	LH		mdck
+	MDCKX, MDCK1 passage(s)	LH		mdck
+	Egg 2 passage(s)	LH		egg
+	E3 passage(s)	LH		e3
+	MDCK0, MDCK1 passage(s)	LH		mdck
+	MDCK 3 passage(s)	LH		mdck
+	Egg 1/limiting dilution in egg 1 passage(s)	LH		egg
+	C2 passage(s)	LH		passage
+	RhMK1 passage(s)	LH		passage
+	p1 passage(s)	LH		passage
+	Embryonated Chicken Eggs passage(s)	LH		egg
+	Ferret passage(s)	LH		passage
+	egg 2 passage(s)	LH		egg
+	MDCK3 passage(s)	LH		mdck
+	Egg p1 passage(s)	LH		egg
+	xMDCK1 passage(s)	LH		mdck
+	xtMK1 MDCK1 passage(s)	LH		mdck
+	mdck1 passage(s)	LH		mdck
+	MEK passage(s)	LH		passage
+	Egg 3 passage(s)	LH		egg
+	mdck2 passage(s)	LH		mdck
+	E>2 passage(s)	LH		passage
+	P3 passage(s)	LH		passage
+	R-Mix 1 RhMK 1 passage(s)	LH		passage
+	E 2 passage(s)	LH		passage
+	EX passage(s)	LH		passage
+lung	Mouselung 21+MDCK 2+egg 2 passage(s)	MANUAL	mouse	egg
+	? + egg2 passage(s)	LH		egg
+	MDCK1;E1 passage(s)	LH		mdck
+	X/E1 passage(s)	LH		passage
+	passage(s)	LH		passage
+	tMK1 MDCK1 passage(s)	LH		mdck
+	SIATX, MDCK1 passage(s)	LH		mdck
+	egg 5 passage(s)	LH		egg
+	1 passage in swine passage(s)	LH		passage
+	E>1 passage(s)	LH		passage
+	Egg 1 + limiting dilution in egg 1 passage(s)	LH		egg
+	X,MDCK1 passage(s)	LH		mdck
+	P-1 passage(s)	LH		passage
+	R1 passage(s)	LH		passage
+	Egg 4 passage(s)	LH		egg
+	MDCK Unknown passage(s)	LH		mdck
+	harvest-Rh1 passage(s)	LH		passage
+	pRhMK 3 passage(s)	LH		passage
+	Egg 1 + limiting dilution in egg 2 passage(s)	LH		egg
+	Egg 5 passage(s)	LH		egg
+	tMK2 MDCK1 passage(s)	LH		mdck
+	E4 passage(s)	LH		passage
+	Egg 6 passage(s)	LH		egg
+	Egg Passage 2 passage(s)	LH		egg
+	SIATX,MDCK1 passage(s)	LH		mdck
+	pRhMK1 passage(s)	LH		passage
+	MDCK 4 passage(s)	LH		mdck
+	Plaque from MDCK1 passage(s)	LH		mdck
+	in vitro Ab selection + egg2 passage(s)	LH		egg
+	MDCK2;E1 passage(s)	LH		mdck
+	6 passage passage(s)	LH		passage
+	Egg 1+limiting dilution in egg 1 passage(s)	LH		egg
+	mdck0,mdck1 passage(s)	LH		mdck
+	MDCK4 passage(s)	LH		mdck
+	EGG 1 + LD 2 passage(s)	LH		egg
+	E passage(s)	LH		passage
+	3 passage passage(s)	LH		passage
+	EXE1 passage(s)	LH		passage
+	Eggs passage(s)	LH		egg
+lung	Mouselung 12+MDCK 2+egg 2 passage(s)	MANUAL	mouse	egg
+	P-2 passage(s)	LH		passage
+	RhMK 3 passage(s)	LH		passage
+	xMDCK2 passage(s)	LH		mdck
+	limiting dilution in egg 1 passage(s)	LH		egg
+	MEK2 passage(s)	LH		passage
+	R-Mix 1, MDCK1 passage(s)	LH		mdck
+	X,MDCK2 passage(s)	LH		mdck
+	mdck3 passage(s)	LH		mdck
+	tMK4 MDCK1 passage(s)	LH		mdck
+	EGG 1 + LD1 passage(s)	LH		egg
+	R2 passage(s)	LH		passage
+	C3 passage(s)	LH		passage
+	Embryonated eggs passage(s)	LH		egg
+	HEPG,MDCK1 passage(s)	LH		mdck
+	MDCK 1+egg 2 passage(s)	LH		egg
+	MDCK1, MDCK1 passage(s)	LH		mdck
+	mdckx.mdck1 passage(s)	LH		mdck
+	5 passage passage(s)	LH		passage
+	Embryonated Chicken Egg passage(s)	LH		egg
+	MDCK,MDCK1 passage(s)	LH		mdck
+	EGG 1 + LD 1 passage(s)	LH		egg
+	EX/E1 passage(s)	LH		passage
+	Embryonated Chicken Eggs 2 passage(s)	LH		egg
+	RhMK2 passage(s)	LH		passage
+	pRhMK 1 passage(s)	LH		passage
+	pRhMK 2 passage(s)	LH		passage
+	tMK3 MDCK1 passage(s)	LH		mdck
+	Egg Passage 1 passage(s)	LH		egg
+	P4 passage(s)	LH		passage
+	M1/C1 passage(s)	LH		passage
+	MKX,MDCK1 passage(s)	LH		mdck
+	Egg 2/limiting dilution in egg 1 passage(s)	LH		egg
+	MDCK-SIAT1, passage no. 2	LH		mdck
+	MDCKX,MDCK2 passage(s)	LH		mdck
+	xtMK2 MDCK1 passage(s)	LH		mdck
+	MDCKx passage(s)	LH		mdck
+	X/C1 passage(s)	LH		passage
+	E5 passage(s)	LH		passage
+	SPF chicken eggs, first passage passage(s)	LH		egg
+	R-MIX, mdck1 passage(s)	LH		mdck
+lung	CD-1 Mouselung 12, MDCK plaque 2,+egg 2 passage(s)	MANUAL	mouse	egg
+lung	CD-1 Mouselung 20, MDCK plaque 2,+egg 2 passage(s)	MANUAL	mouse	egg
+	E 3 passage(s)	LH		passage
+	E6 passage(s)	LH		passage
+	EX/E2 passage(s)	LH		passage
+	GMKC1 passage(s)	LH		passage
+	MDCK 5 passage(s)	LH		mdck
+	MDCK1;egg1 passage(s)	LH		egg
+	MDCKX.MDCK1 passage(s)	LH		mdck
+	Unknown 1 RhMK 1 passage(s)	LH		passage
+	egg 6 passage(s)	LH		egg
+	mdckx,mdck2 passage(s)	LH		mdck
+	P-4 passage(s)	LH		passage
+	MDCKX passage(s)	LH		mdck
+	Vaccinated mouse passage(s)	MANUAL	mouse	NA
+	EGG1 + LD2 passage(s)	LH		egg
+	X1/C1 passage(s)	LH		passage
+	Amniotic 1 Allantoic 1 passage(s)	LH		passage
+	MEK3 passage(s)	LH		passage
+	MKX, MDCK1 passage(s)	LH		mdck
+	R-Mix 2 RhMK 2 passage(s)	LH		passage
+	RhMk 1 passage(s)	LH		passage
+	Unknown 1 RhMK 2 passage(s)	LH		passage
+	mdckx,mdkc1 passage(s)	LH		mdck
+	MDCKX, MDCK2 passage(s)	LH		mdck
+	xMDCK3 passage(s)	LH		mdck
+	P-3 passage(s)	LH		passage
+	MX/C1 passage(s)	LH		passage
+	1st Passage Unknown 2nd Passage RhMK passage(s)	LH		passage
+	1 MDCK passage(s)	LH		mdck
+	Amniotic 2 Allantoic 1 passage(s)	LH		passage
+	C passage(s)	LH		passage
+	EX,MDCKX,MDCK1 passage(s)	LH		mdck
+	Egg 2+limiting dilution in egg 1 passage(s)	LH		egg
+	Egg 3-6 passage(s)	LH		egg
+	MDCK p1 passage(s)	LH		mdck
+	MDCKX, MDCK Plaque purification 2, MDCK1 passage(s)	LH		mdck
+	MDCKX,mdck1 passage(s)	LH		mdck
+	PMK-1 passage(s)	LH		passage
+	R-MIX,MDCK1 passage(s)	LH		mdck
+	RhMK 1 MDCK 1 passage(s)	LH		mdck
+	Unknown 1 MDCK 3 passage(s)	LH		mdck
+	XE1 passage(s)	LH		passage
+	embryonated egg passages	LH		egg
+	E7 passage(s)	LH		passage
+	tMK1 MDCK2 passage(s)	LH		mdck
+	C4 passage(s)	LH		passage
+	1 ferret passage passage(s)	LH		passage
+	2 ferrets passage passage(s)	LH		passage
+	Amniotic 6 Allantoic 1 passage(s)	LH		passage
+	Cx passage(s)	LH		passage
+	EGG 1+ LD 2 passage(s)	LH		egg
+	Egg 1+ limiting dilution in egg 1 passage(s)	LH		egg
+	Eggs1 passage(s)	LH		egg
+	Ex MDCK1 passage(s)	LH		mdck
+	HEPGX, MDCK1 passage(s)	LH		mdck
+	MDCK 6 passage(s)	LH		mdck
+	MDCK2;E2 passage(s)	LH		mdck
+	MDCK5 passage(s)	LH		mdck
+	Naive mouse 9, E1 passage(s)	MANUAL	mouse	NA
+	Passage 2 passage(s)	LH		passage
+	R-MIXX,MDCK1 passage(s)	LH		mdck
+	R-MIXx, MDCK1 passage(s)	LH		mdck
+	Unknown 1 MDCK 2 passage(s)	LH		mdck
+	Vaccinated mouse 9, E1 passage(s)	MANUAL	mouse	NA
+	X passage(s)	LH		passage
+	X/E2 passage(s)	LH		passage
+	egg 3 passage(s)	LH		egg
+	egg > 1 passage(s)	LH		egg
+	mdckx, mdck1 passage(s)	LH		mdck
+	pRHMK1 passage(s)	LH		passage
+	unknown/C1 passage(s)	LH		passage
+	xtMK1 MDCK2 passage(s)	LH		mdck
+	xtMK3 MDCK1 passage(s)	LH		mdck
+	E1MDCK1 passage(s)	LH		mdck
+	M2/C1 passage(s)	LH		passage
+	C6/36 Mosquito cell line, passage 2	LH		c6/36
+	1 passage in PLC/PRF/5	LH		passage
+	embryonated chicken eggs passage 1CE-4dpi	LH		egg
+	1 passage(s)	LH		passage
+	2 MDCK passage(s)	LH		mdck
+	BHK-21,Passage-1	LH		BHK
+	MDCK P2 passages	LH		mdck
+	SIAT1 passage(s)	LH		passage
+	Amniotic 2 pRhMK 2 passage(s)	LH		passage
+	X/ passage(s)	LH		passage
+	1 passage - HTBE cells passage(s)	LH		cell
+	10 passages - MDCK cells; Passage Line 1 passage(s)	LH		cell
+CLO	10 passages - MDCK cells; Passage Line 1, Clone 1 passage(s)	LH/IS		cell
+CLO	10 passages - MDCK cells; Passage Line 1, Clone 2 passage(s)	LH/IS		cell
+	10 passages - MDCK cells; Passage Line 2 passage(s)	LH		cell
+CLO	10 passages - MDCK cells; Passage Line 2, Clone 1 passage(s)	LH/IS		cell
+CLO	10 passages - MDCK cells; Passage Line 2, Clone 2 passage(s)	LH/IS		cell
+	10 passages - MDCK cells; Passage Line 3 passage(s)	LH		cell
+CLO	10 passages - MDCK cells; Passage Line 3, Clone 1 passage(s)	LH/IS		cell
+CLO	10 passages - MDCK cells; Passage Line 3, Clone 2 passage(s)	LH/IS		cell
+CLO	10 passages - embryonated chicken eggs; Passage Line 2, Clone 1 passage(s)	LH/IS		egg
+CLO	10 passages - embryonated chicken eggs; Passage Line 2, Clone 2 passage(s)	LH/IS		egg
+	10 passages - embryonated chicken eggs; Passage Line 5 passage(s)	LH		egg
+CLO	10 passages - embryonated chicken eggs; Passage Line 5, Clone 1 passage(s)	LH/IS		egg
+CLO	10 passages - embryonated chicken eggs; Passage Line 5, Clone 2 passage(s)	LH/IS		egg
+	AM passage(s)	LH		passage
+	AMN passage(s)	LH		passage
+	Amniotic 1 Allantoic 2 passage(s)	LH		passage
+	Amniotic 1 pRhMK 2 passage(s)	LH		passage
+	CL-2, P2 passage(s)	LH		passage
+	E1 tMK2 MDCK1 passage(s)	LH		mdck
+	E1/E2 passage(s)	LH		passage
+	EGG 1 + LD2 passage(s)	LH		egg
+	EGG1 + LD1 passage(s)	LH		egg
+	EX/P2E1 passage(s)	LH		passage
+	Egg 7 passage(s)	LH		egg
+	HEPG,mdck1 passage(s)	LH		mdck
+	MD1 passage(s)	LH		passage
+	MDCK-SIATX,MDCK1 passage(s)	LH		mdck
+	MDCK20 passage(s)	LH		mdck
+	MDCKX,MDCK3 passage(s)	LH		mdck
+	MDCKX-SIATX,MDCK1 passage(s)	LH		mdck
+	MDCKx,MDCK1 passage(s)	LH		mdck
+	MEKX,MDCK1 passage(s)	LH		mdck
+kidney	Monkey Kidney 1/MDCK 1 passage(s)	LH/IS		mdck
+lung	Mouselung 19+MDCK 2+egg 2 passage(s)	MANUAL	mouse	egg
+	P2/P3 passage(s)	LH		passage
+	R-MIX1, MDCK1 passage(s)	LH		mdck
+	RMX,MDCK1 passage(s)	LH		mdck
+	RhMK1 MDCK 1 passage(s)	LH		mdck
+	RhMk 3 passage(s)	LH		passage
+	Unknown 1 passage(s)	LH		passage
+	Unknown 2 MDCK 2 passage(s)	LH		mdck
+	X, MDCK1 passage(s)	LH		mdck
+	X/C1/E1 passage(s)	LH		passage
+	X/C2/E1 passage(s)	LH		passage
+	X2 passage(s)	LH		passage
+	embryonated chicken eggs 1 passage(s)	LH		egg
+	siatx,mdck1 passage(s)	LH		mdck
+kidney	swine kidney 2, MDCK 2 passage(s)	LH/IS		mdck
+	tMK1, MDCK1 passage(s)	LH		mdck
+	tMK5 MDCK1 passage(s)	LH		mdck
+	xMDCK4 passage(s)	LH		mdck
+	E2MDCK1 passage(s)	LH		mdck
+	RMK1 passage(s)	LH		passage
+	XMDCK1 passage(s)	LH		mdck
+	C1/C1 passage(s)	LH		passage
+	E1 passage	LH		passage
+	E3MDCK1 passage(s)	LH		e3
+	tMK3 passage(s)	LH		passage
+	C2/C1 passage(s)	LH		passage
+	tMK5 passage(s)	LH		passage
+	OR/E1 passage(s)	LH		passage
+	P-5 passage(s)	LH		passage
+	embryonated chicken eggs passage 1CE-6dpi	LH		egg
+	M1 passage(s)	LH		passage
+	Amniotic 1/Allantoic 2 passage(s)	LH		passage
+	E4MDCK1 passage(s)	LH		mdck
+	P5 passage(s)	LH		passage
+	RMK, MDCK passage(s)	LH		mdck
+	1 passage MDCK cells, 1 passage HTBE cells passage(s)	LH		cell
+	10 passages - embryonated chicken eggs; Passage Line 2 passage(s)	LH		egg
+	10 passages - embryonated chicken eggs; Passage Line 4 passage(s)	LH		egg
+CLO	10 passages - embryonated chicken eggs; Passage Line 4, Clone 1 passage(s)	LH/IS		egg
+CLO	10 passages - embryonated chicken eggs; Passage Line 4, Clone 2 passage(s)	LH/IS		egg
+	10 passages - embryonated chicken eggs; Passage Line 6 passage(s)	LH		egg
+CLO	10 passages - embryonated chicken eggs; Passage Line 6, Clone 1 passage(s)	LH/IS		egg
+CLO	10 passages - embryonated chicken eggs; Passage Line 6, Clone 2 passage(s)	LH/IS		egg
+	1001_Day_1 passage(s)	LH		passage
+	1001_Day_2 passage(s)	LH		passage
+	1006_Day_1 passage(s)	LH		passage
+	1006_Day_3 passage(s)	LH		passage
+	1008_Day_2 passage(s)	LH		passage
+	1010_Day_3 passage(s)	LH		passage
+	1012_Day_2 passage(s)	LH		passage
+	1012_Day_3 passage(s)	LH		passage
+	1012_Day_6 passage(s)	LH		passage
+	1013_Day_2 passage(s)	LH		passage
+	1013_Day_3 passage(s)	LH		passage
+	1015_Day_4 passage(s)	LH		passage
+	12 passages - guinea pig passage(s)	LH		passage
+	1st pass MDCK passage(s)	LH		mdck
+	3 egg 1 MDCK passage(s)	LH		egg
+	3006_Day_2 passage(s)	LH		passage
+	3006_Day_3 passage(s)	LH		passage
+	3006_Day_4 passage(s)	LH		passage
+	3006_Day_5 passage(s)	LH		passage
+	3008_Day_2 passage(s)	LH		passage
+	3008_Day_3 passage(s)	LH		passage
+	3008_Day_4 passage(s)	LH		passage
+	3008_Day_5 passage(s)	LH		passage
+	3009_Day_3 passage(s)	LH		passage
+	3009_Day_4 passage(s)	LH		passage
+	3009_Day_5 passage(s)	LH		passage
+	3011_Day_3 passage(s)	LH		passage
+	3011_Day_4 passage(s)	LH		passage
+	3012_Day_1 passage(s)	LH		passage
+	3012_Day_2 passage(s)	LH		passage
+	3012_Day_3 passage(s)	LH		passage
+	3012_Day_4 passage(s)	LH		passage
+	3013_Day_3 passage(s)	LH		passage
+	3013_Day_4 passage(s)	LH		passage
+	3015_Day_2 passage(s)	LH		passage
+	3015_Day_3 passage(s)	LH		passage
+	3015_Day_4 passage(s)	LH		passage
+	3015_Day_5 passage(s)	LH		passage
+	3017_Day_3 passage(s)	LH		passage
+	3017_Day_4 passage(s)	LH		passage
+	3017_Day_5 passage(s)	LH		passage
+	4 ferrets passage passage(s)	LH		passage
+	4032_Day_2 passage(s)	LH		passage
+	4032_Day_3 passage(s)	LH		passage
+	4032_Day_4 passage(s)	LH		passage
+	4032_Day_6 passage(s)	LH		passage
+	4046_Day_2 passage(s)	LH		passage
+	4046_Day_3 passage(s)	LH		passage
+	4046_Day_4 passage(s)	LH		passage
+	5001_Day_2 passage(s)	LH		passage
+	5001_Day_3 passage(s)	LH		passage
+	5001_Day_5 passage(s)	LH		passage
+	5002_Day_2 passage(s)	LH		passage
+	5002_Day_3 passage(s)	LH		passage
+	5004_Day_2 passage(s)	LH		passage
+	5004_Day_3 passage(s)	LH		passage
+	5004_Day_4 passage(s)	LH		passage
+	5004_Day_5 passage(s)	LH		passage
+	5006_Day_1 passage(s)	LH		passage
+	5006_Day_2 passage(s)	LH		passage
+	5006_Day_3 passage(s)	LH		passage
+	5007_Day_1 passage(s)	LH		passage
+	5007_Day_2 passage(s)	LH		passage
+	5007_Day_3 passage(s)	LH		passage
+	5017_Day_2 passage(s)	LH		passage
+	5018_Day_1 passage(s)	LH		passage
+	5018_Day_2 passage(s)	LH		passage
+	5019_Day_1 passage(s)	LH		passage
+	5019_Day_2 passage(s)	LH		passage
+	5019_Day_3 passage(s)	LH		passage
+	5020_Day_1 passage(s)	LH		passage
+	5020_Day_2 passage(s)	LH		passage
+	5020_Day_3 passage(s)	LH		passage
+	5020_Day_4 passage(s)	LH		passage
+	5021_Day_1 passage(s)	LH		passage
+	5021_Day_2 passage(s)	LH		passage
+	5021_Day_3 passage(s)	LH		passage
+	5021_Day_4 passage(s)	LH		passage
+	5021_Day_5 passage(s)	LH		passage
+	AM1 passage(s)	LH		passage
+	Allantoic Unknown passage(s)	LH		passage
+	Am-1 passage(s)	LH		passage
+	Am-2 passage(s)	LH		passage
+	Am-3 passage(s)	LH		passage
+	Amniotic 1/pRhMK 2 passage(s)	LH		passage
+	Amniotic 2 Allantoic 4 passage(s)	LH		passage
+	Amniotic 2 pRhMK 3 passage(s)	LH		passage
+	Amniotic 2/pRhMK 4 passage(s)	LH		passage
+	C1E3 passage(s)	LH		e3
+	C2E1+E1 passage(s)	LH		passage
+	CL-1,E passage(s)	LH		passage
+	CL-2, E2 passage(s)	LH		passage
+	CX passage(s)	LH		passage
+	Cell Passage 3 passage(s)	LH		cell
+	Chicken Embryo 1/Egg 3 passage(s)	LH		chicken embryo
+kidney	Chicken Kidney 1 Egg 14 passage(s)	LH/IS		egg
+kidney	Chicken Kidney 1/Egg 4 passage(s)	LH/IS		egg
+	DEE 5 Challenge Virus Stock passage(s)	LH		passage
+lung	Derivative of EB072+Mouselung 12+MDCK 2+egg 2 passage(s)	MANUAL	mouse	egg
+	E E3+1 passage(s)	LH		e3
+	E1 MDCK2 passage(s)	LH		mdck
+	E1/E1 passage(s)	LH		passage
+	E1/E3 passage(s)	LH		e3
+	E10 passage(s)	LH		passage
+	E11 passage(s)	LH		passage
+	E2(28) passage(s)	LH		passage
+	E3 tMK1 MDCK1 passage(s)	LH		e3
+	E57 passage(s)	LH		passage
+	E5MDCK1 passage(s)	LH		mdck
+	E>3 passage(s)	LH		passage
+	E>4 passage(s)	LH		passage
+	E? passage(s)	LH		passage
+	EE12/E1 passage(s)	LH		passage
+	EGG 1+ LD 1 passage(s)	LH		egg
+	EGG1 + LD 1 passage(s)	LH		egg
+	Egg 1 + limiting dilution in egg 4 passage(s)	LH		egg
+	Egg 1; MDCK 2 passage(s)	LH		egg
+	Egg 2 + limiting dilution in egg 3 passage(s)	LH		egg
+	Egg 20 passage(s)	LH		egg
+	Egg 2; MDCK 2 passage(s)	LH		egg
+	Egg 3+limiting dilution in egg 1 passage(s)	LH		egg
+	Egg 3; MDCK 2 passage(s)	LH		egg
+	Egg 8 passage(s)	LH		egg
+	Egg 9 passage(s)	LH		egg
+	Egg Unknown Egg 3 passage(s)	LH		egg
+	Egg Unknown/Egg 3 passage(s)	LH		egg
+	Egg2 passage(s)	LH		egg
+	Embryonated chicken eggs 1 passage(s)	LH		egg
+	Ex MDCK2 passage(s)	LH		mdck
+	Ferret/cell Passage 1 passage(s)	LH		cell
+	LLC-MK2 1 MDCK 3 Egg4 passage(s)	LH		egg
+	LLCMK2 tMK2 MDCK2 passage(s)	LH		mdck
+	LLCMK2, MDCK2 passage(s)	LH		mdck
+lung	LUNG-1 passage(s)	LH/IS		passage
+	M96E12 passage(s)	LH		passage
+	MDCK 1 RhMK 2 passage(s)	LH		mdck
+	MDCK 2 Egg 1 passage(s)	LH		egg
+	MDCK 2 Egg 2 passage(s)	LH		egg
+	MDCK 2 Egg 4 passage(s)	LH		egg
+	MDCK 2+egg 2 passage(s)	LH		egg
+	MDCK P0 passage(s)	LH		mdck
+	MDCK Unknown Egg 4 passage(s)	LH		egg
+	MDCK cells passage(s)	LH		cell
+	MDCK,LLC,MDCK1 passage(s)	LH		mdck
+	MDCK,LLC,MDCK2 passage(s)	LH		mdck
+	MDCK-SIAT1, passage no.2	LH		mdck
+	MDCK/LLCX,MDCK1 passage(s)	LH		mdck
+	MDCK1, MDCK2 passage(s)	LH		mdck
+	MDCK1,MDCK2 passage(s)	LH		mdck
+	MDCK10 passage(s)	LH		mdck
+	MDCK12 passage(s)	LH		mdck
+	MDCK2,MDCK3 passage(s)	LH		mdck
+	MDCKII passage(s)	LH		mdck
+	MDCKX,MCDK1 passage(s)	LH		mdck
+	MDCKX,MDCK passage(s)	LH		mdck
+	MDCKX.MDCK2 passage(s)	LH		mdck
+	MDCKX/MDCK2 passage(s)	LH		mdck
+	MEKX.MDCK1 passage(s)	LH		mdck
+	MK passage(s)	LH		passage
+	MK1E2 passage(s)	LH		passage
+	MK3E1+E1 passage(s)	LH		passage
+	MKDCKX, MDCK1 passage(s)	LH		mdck
+kidney	Monkey Kidney 1 Egg 2 passage(s)	LH/IS		egg
+kidney	Monkey Kidney 1 Egg 4 passage(s)	LH/IS		egg
+kidney	Monkey Kidney 1 MDCK 3 passage(s)	LH/IS		mdck
+kidney	Monkey Kidney 1/MDCK 2 passage(s)	LH/IS		mdck
+kidney	Monkey Kidney 1/MDCK 3 passage(s)	LH/IS		mdck
+kidney	Monkey Kidney 2 Egg 2 passage(s)	LH/IS		egg
+kidney	Monkey Kidney 2 MDCK 3 passage(s)	LH/IS		mdck
+	P1/E1 passage(s)	LH		passage
+	P2/E1 passage(s)	LH		passage
+	P2E1 passage(s)	LH		passage
+	P6 passage(s)	LH		passage
+	P9 passage(s)	LH		passage
+	R-MIX MDCK1 passage(s)	LH		mdck
+	R-MIX1, MDCK2 passage(s)	LH		mdck
+	R-MIX1,MDCK` passage(s)	LH		mdck
+	RMIX-X,MDCK1 passage(s)	LH		mdck
+	RMX,MDCK2 passage(s)	LH		mdck
+	RhMK 2 MDCK 1 passage(s)	LH		mdck
+	RhMK 5 passage(s)	LH		passage
+	RhMK2 MDCK 1 passage(s)	LH		mdck
+	SIATX, MDCK2 passage(s)	LH		mdck
+	Unknown 1, RhMK1 passage(s)	LH		passage
+	Unknown 1/MDCK 2 passage(s)	LH		mdck
+	Unknown 2 Egg 3 passage(s)	LH		egg
+	Unknown 2 MDCK 3 passage(s)	LH		mdck
+	Unknown 2/MDCK 2 passage(s)	LH		mdck
+	Unknown Egg 2 passage(s)	LH		egg
+	Unknown/P1 passage(s)	LH		passage
+	Unknown/P3 passage(s)	LH		passage
+	Vero Cell 10 passage(s)	LH		cell
+	X/E3 passage(s)	LH		e3
+	X/EXE1 passage(s)	LH		passage
+	XMDCK2 passage(s)	LH		mdck
+	XMDCK3 passage(s)	LH		mdck
+	Xmdck2 passage(s)	LH		mdck
+	c1 passage(s)	LH		passage
+	egg 4 passage(s)	LH		egg
+	egg passage 2 passage(s)	LH		egg
+	embryonated chicken egg 4 passage(s)	LH		egg
+	embryonated chicken eggs passage(s)	LH		egg
+	mdck1,mdck2 passage(s)	LH		mdck
+	mdckx,MDCK1 passage(s)	LH		mdck
+	mdckx.mdck2 passage(s)	LH		mdck
+	mdcl1 passage(s)	LH		passage
+kidney	monkey kidney 2, egg 2; Egg 1+2 plaque pufication MDCK+egg 2 passage(s)	LH/IS		egg
+	mouse passage(s)	MANUAL	mouse	passage
+	pRHMK2 passage(s)	LH		passage
+	pRhMK 1 Allantoic 1 passage(s)	LH		passage
+	pRhMK 1 Allantoic 2 passage(s)	LH		passage
+	pRhMK 4 passage(s)	LH		passage
+	pRhMK 5 passage(s)	LH		passage
+	rpt mdck1 passage(s)	LH		mdck
+kidney	swine kidney 2, MDCK 3 passage(s)	LH/IS		mdck
+	tMK1 E1 MDCK1 passage(s)	LH		mdck
+	tMK1 MDCK3 passage(s)	LH		mdck
+	tMK6 MDCK1 passage(s)	LH		mdck
+	tMK7 MDCK1 passage(s)	LH		mdck
+	unknown/C3 passage(s)	LH		passage
+	x,mdck2 passage(s)	LH		mdck
+	xE1 MDCK1 passage(s)	LH		mdck
+	xE1 passage(s)	LH		passage
+	xE5 MDCK4 passage(s)	LH		mdck
+	xMDCKx E1 tMK1 MDCK1 passage(s)	LH		mdck
+	xtMK3 MDCK2 passage(s)	LH		mdck
+	1st Passage Unknown, 2nd Passage RhMK	LH		passage
+	C2/C2 passage(s)	LH		passage
+	EX passages	LH		passage
+	HEPG,MDCK2 passage(s)	LH		mdck
+	MDCK1SF12MDCK2 passage(s)	LH		mdck
+	P2 passages	LH		passage
+	Vero cell line adapted at passage level 1(P1)	LH		cell
+	tMK2 passage(s)	LH		passage
+	C6/36 Mosquito cell line; passage 1	LH		c6/36
+	M2 passage(s)	LH		passage
+	MD5 passage(s)	LH		passage
+tissue	Vero E6 tissue culture, first passage	LH/IS		passage
+	X2/C1 passage(s)	LH		passage
+	passaged in BHK-21 cells	LH		BHK
+	tMK4 passage(s)	LH		passage
+	2 passage passage(s)	LH		passage
+	AF-72 (3 passages)	LH		passage
+	EX, E6 passage(s)	LH		passage
+	EX, E8 passage(s)	LH		passage
+	allantoic fluid passage(s)	LH		passage
+	one passage(s)	LH		passage
+	C6/36 Mosquito cell line, passage 1	LH		c6/36
+	OR/E3 passage(s)	LH		e3
+	chicken embryonated eggs 1st passage	LH		chicken embryo
+	chicken embryonated eggs 2nd passage	LH		chicken embryo
+	C3/C1 passage(s)	LH		passage
+	C6/36 Mosquito cell line; passage 2	LH		c6/36
+	Egg-2 passage(s)	LH		egg
+	LLCMK2, MDCK1 passage(s)	LH		mdck
+	MBr,Passage-1	LH		passage
+	MDBK cells, 6th passage	LH		cell
+	Passage History: Vero 3	LH		passage
+	X2/C2 passage(s)	LH		passage
+kidney	porcine embryo kidney (PS) cells, 3rd passage	LH/IS		cell
+	3 MDCK passage(s)	LH		mdck
+	BHK-21,PASSAGE1	LH		BHK
+	C4/C2 passage(s)	LH		passage
+	CX/C1 passage(s)	LH		passage
+	EXE2, MDCK1 passage(s)	LH		mdck
+	HEK, MDCK passage(s)	LH		mdck
+	M2/C3 passage(s)	LH		passage
+	M3 passage(s)	LH		passage
+	M3/C1 passage(s)	LH		passage
+	MDBK cell line, passage 3	LH		cell
+	passaged in PK15 cells	LH		cell
+	passaged in rhabdomyosarcoma cells	LH		cell
+lung	seven passages in cotton rat lung cells	LH/IS		cell
+specimen	Original specimen passage(s)	LH/IS		NA
+	Not passaged passage(s)	LH		passage
+	mouse treated with mAb passage(s)	MANUAL	mouse	passage
+specimen	Original specimen uncultured in VTM passage(s)	LH/IS		NA
+	ND passage(s)	LH		passage
+	primary human mesangial cells after 10x passaging	LH		cell
+	primary mouse mesangial cells after 10x passaging	MANUAL	mouse	cell
+	pig alveolar macrophages			
+	PK-15			
+kidney	porcine kidney-15	IS		
+	RD	LH		RD
+kidney	rabbit kidney RK-13	LH/IS		RK-13
+	sentinel mice	MANUAL	mice	
+	SPF chicken embryos	LH		chicken embryo
+	SPF embryos	LH		spf
+	SPF chicken embryo	LH		chicken embryo
+	ECE-SPF	LH		ece
+	SPF chicken eggs	LH		egg
+	10-day-old SPF chicken embryo	LH		chicken embryo
+	specific pathogen-free (SPF) chicken eggs	LH		egg
+	spfck3E3 passage(s)	LH		e3
+	spfck3E4 passage(s)	LH		passage
+	spfck3E5 passage(s)	LH		passage
+	suckling mice	MANUAL	mice	
+	suckling mouse	MANUAL	mouse	
+	suckling white mice	MANUAL	mice	
+	SW13	LH		sw13
+tissue	tissue culture	LH/IS		tissue culture
+NP	swine, unpassaged	LH/IS		passage
+	Vero	LH		vero
+	Vero/SLAM	LH		vero
+	Vero/h Slam	LH		vero
+	Vero E6	LH		vero
+	Chlorocebus sabaeus VeroE6/TMPRSS2	LH		vero
+	Vero-SLAM	LH		vero
+	vero	LH		vero
+	Vero CCL	LH		vero
+	Vero/hSlam	LH		vero
+	Vero-CCL81	LH		vero
+	VERO	LH		vero
+	Vero-SLAM cells	LH		cell
+	Cercopithecus aethiops (Vero cells)	LH		cell
+	Vero-slam	LH		vero
+	VeroE6	LH		vero
+FEC	Medium Vero infected cells	LH/IS		cell
+	Vero-E6	LH		vero
+	Vero-hSLAM	LH		vero
+	Vero 3	LH		vero
+	Vero-Slam	LH		vero
+	Vero/hSLAM	LH		vero
+	vero E6 hSLAM	LH		vero
+	SM2, Vero1	LH		vero
+	Vero cells; P1	LH		cell
+	Vero/SLAM cell line	LH		cell
+	two passages on Vero cells	LH		cell
+	vero 76	LH		vero
+	vero cell culture	LH		cell
+	vero cell cultures	LH		cell
+	vero cell line	LH		cell
+	vero cell, 5th vero cell passage	LH		cell
+	vero-dog-SLAM	LH		vero
+	white mouse	MANUAL	mouse	
+ns	Instituto Colombiano Agropecuario (ICA)	IS		
+ns	Laboratory of Genetics of RNA viruses, Mechnikov Research Institute for Vaccines and Sera, Moscow, Russia	LH/IS		NA
+OF	College of Veterinary Medicine, Huazhong Agricultural University	LH/IS		NA
+	IZS Teramo			
+	not applicable			
+NW	Molecular Microbiology Lab-NWU, SA	IS		
+ns	State collection of viruses, Federal State Budgetary Institution Federal Research Centre for Epidemiology and Microbiology named after the honorary academician N.F. Gamaleya of the Ministry of Health of the Russian Federation, strain ID: SCV3009, deposition date: 2023.	LH/IS		NA
+OF	Reference Laboratory of Pox Virus, Veterinary Organization of Khorasan Razavi	LH/IS		NA
+	Metapontum Agrobios			
+	reassortant			
+	Shanghai			
+ns	Homo sapiens (hematopoietic stem cell transplant recipient)	LH/IS		cell
+	cattle			
+FEC	feces	LH/IS		ece
+NP	Human, unpassaged	LH/IS		passage
+	white mice	MANUAL	mice	
+	Mouse	MANUAL	mouse	
+	mouse	MANUAL	mouse	
+	Mus musculus	MANUAL	Mus musculus	
+	E.Coli DH5alfa			
+	Mycobacterium smegmatis mc2 155			
+	Microbacterium foliorum NRRL B-24224			
+	Nicotiana benthamiana	LH		NA
+	Escherichia Coli			
+	Mycobacterium smegmatis mc#155			
+	Gordonia terrae 3612	LH		RD
+	Gordonia rubripertincta NRRL B-16540	LH		RD
+	Arthrobacter globiformis B-2979			
+	Escherichia coli			
+	Klebsiella pneumoniae			
+	Rhodobacter capsulatus YW1			
+	Streptomyces griseus ATCC 10137			
+ns	Streptomyces lividans JI 1326	IS		
+	Prochlorococcus sp. MED4			
+	Mycobacterium smegmatis mc2155			
+	E. coli			
+	Escherichia coli DH5-alpha			
+	Escherichia coli K-12 MG1655 del pstSCAB-phoU::kan			
+	Arthrobacter sp. ATCC 21022			
+	Brucella abortus S19	LH		cell
+	Cellulophaga sp. HaHaR_3_176	LH		cell
+	Gordonia terrae CAG3	LH		RD
+	Arthrobacter globiformis NRRL B-2979			
+	Escherichia coli DH5a			
+	Streptomyces coelicolor			
+	Bacillus anthracis Sterne			
+	Paenibacillus larvae 2017			
+	Bacillus subtilis delta6			
+	Paenibacillus larvae F1A			
+NAS	Pseudomonas aeruginosa PAO1	LH/IS		NA
+	Rhodococcus equi NRRL B-16538			
+	Klebsiella aerogenes			
+	Human			
+	swine			
+	chicken			
+	human			
+	hepatocellular carcinoma patient	LH		cell
+	cultured Rainbow Trout, Oncorhynchus mykiss			
+	KP13			
+specimen	Clinicle specimen	IS		
+	Aedes aegypti (laboratory reard)	LH		RD
+	Laboratory-derived			
+	bovine			
+ns	Homo sapiens	IS		
+	Gallus domesticus			
+	Gallus gallus			
+	Epithelioma papulosum cyprini			
+	Nicotiana rustica	LH		NA
+	Nicotiana tabacum (tobacco)	LH		NA
+	Macaca mulatta			
+	Rhesus Monkey			
+	Cavia porcellus	LH		cell
+	Mallard	LH		RD
+	Pan troglodytes			
+	Haloarcula californiae			
+	Rhesus monkey			
+	wild boars			
+	Capsicum annuum			
+ns	Serratia marcescens	IS		
+	pig's bone marrow			
+	Aedes aegypti			
+	Cercopithecus aethiops			
+	Chenopodium quinoa			
+	Apodemus agrarius			
+	Haloarcula hispanica			
+	laboratory mouse	MANUAL	mouse	
+	maize			
+	pepper			
+	rice			
+	N. benthamiana	LH		NA
+	African green monkey			
+	Datura stramonium			
+	Emilia sonchifolia			
+	White-tufted-ear marmoset			
+	Ciencias_basicas_CES			
+	Escherichia coli ECOR4			
+	Mallard duck	LH		RD
+	Solanum lycopersicum			
+	Staphylococcus pseudintermedius AZM22			
+	cowpea			
+	guinea pig			
+	Bos taurus			
+	Brucella sp.	LH		cell
+	Cavia porcellus (Guinea pig)	LH		cell
+BAL	Cellulophaga baltica #18	LH/IS		cell
+	Citrobacter freundii			
+	Halorubrum sp. s5a-3			
+	Nucella lapillus	LH		cell
+	Ovis aries			
+ns	Physalis pubescens	IS		
+	Salmonella enterica subsp. enterica serovar Typhimurium strain ATCC 14028S			
+	Staphylococcus aureus RN4220			
+	Streptomyces sanglieri UNT16F27A			
+	Streptomyces scabiei RL-34			
+NAS	Xanthomonas translucens pv. translucens (DSM 18974)	LH/IS		NA
+	duck			
+	human foreskin fibroblast	LH		fibroblast
+NAS	Aeromonas salmonicida	LH/IS		NA
+	Arthrobacter globiformis NRRL B-2880			
+	Brucella abortus 141	LH		cell
+	Escherichia coli ECOR20			
+ns	Haloarcula sinaiiensis	LH/IS		NA
+	Haloarcula vallismortis			
+	Halogranum sp. SS5-1			
+ns	Halorubrum sodomense	IS		
+clinical	Klebsiella oxytoca clinical isolate	IS		
+	Klebsiella pneumonaie	LH		NA
+sea	Microbacterium foliorum NRRL B-24224 SEA	IS		
+	Nicotiana clevelandii	LH		NA
+	Oryza sativa			
+	Paenibacillus larvae			
+	Salmonella enterica			
+	Streptomyces mirabilis NRRL B-2400			
+	epithelioma papulosum cyprini			
+	Bacillus subtilis BEST7003			
+	Brucella abortus	LH		cell
+	Enterococcus faecalis			
+	Escherichia coli O157:H7			
+	Gordonia rubripertincta	LH		RD
+	Gordonia rubripertincta Grub38	LH		RD
+	Gordonia terrae NRRL B-16283	LH		RD
+	Microbacterium testaceum NRRL B-24232			
+	Nicotiana glutinosa	LH		NA
+NAS	Pseudomonas aeruginosa	LH/IS		NA
+NAS	Pseudomonas aeruginosa M1C34	LH/IS		NA
+	Rattus norvegicus (laboratory Wistar-type rat)			
+	Shigella boydii			
+	Streptomyces bicolor NRRL B-3897			
+	backyard_chicken	LH		RD
+	epithelioma papulosum cyprini(EPC)			
+	soybean			
+	Aedes albopictus			
+	Arthrobacter sulfureus NRRL B-14730			
+	BF-2			
+	Bacillus subtilis			
+ns	Bacillus thuringiensis subspecies kurstaki	IS		
+	Burkholderia pseudomallei 576mn			
+BAL	Cellulophaga baltica #12	LH/IS		cell
+BAL	Cellulophaga baltica #13	LH/IS		cell
+BAL	Cellulophaga baltica #19	LH/IS		cell
+BAL	Cellulophaga baltica MM#3	LH/IS		cell
+	Cellulophaga sp. HaHa_2_95	LH		cell
+	E. coli K-12 SKB-178			
+	Emilia sonchifolia (Linn.)DC.			
+	Escherichia coli ATCC 25922			
+	Escherichia coli CFT073			
+	Escherichia coli K-12 SKB-178			
+	Escherichia coli O156:H25			
+	Escherichia coli O78 Strain ECL23026			
+	Eustoma grandiflorum cultivar ABC series			
+	Helicoverpa armigera			
+	Human Caucasian colon adenocarcinoma (Caco-2)			
+	IFNAR-/-	LH		NA
+	LFBK			
+	LLC-PK1			
+	MCF-7			
+	Marc-145			
+ns	Microbacterium paraoxydans NRRL B-14843	IS		
+	Microbacterium sp. ISAT203			
+	Mycobacterium abscessus T36			
+	Mycobacterium abscessus T46			
+	Mycobacterium abscessus T49			
+	Nicotiana tabacum cv. Samsun nn	LH		NA
+	Oryctolagus cuniculus			
+	P1SM1V1B1			
+	Proteus mirabillis			
+NAS	Pseudomonas aeruginosa M1C108	LH/IS		NA
+	SK6			
+	Salmonella paratyphi			
+	Staphylococcus aureus			
+	cowpea CO7			
+FEC	experimentally infected sheep	IS		
+brain	mouse (brain)	MANUAL	mouse	
+	peripheral blood lymphocytes, PBL			
+serum	serum in C6/36	LH/IS		c6/36
+NAS	Aeromonas veronii	LH/IS		NA
+	Arabidopsis thaliana	LH		NA
+	Arthrobacter globiformis NRRL B-2779			
+	Arthrobacter sulfureus ATCC 19098			
+	Bacillus anthracis			
+	Bombyx mori			
+	Brassica oleracea			
+air	Cairina moschata	LH/IS		NA
+	Cavia porcellus (guinea pig)	LH		cell
+BAL	Cellulophaga baltica #17	LH/IS		cell
+BAL	Cellulophaga baltica NN016038	LH/IS		cell
+BAL	Cellulophaga baltica NN016046	LH/IS		cell
+BAL	Cellulophaga baltica NN016048	LH/IS		cell
+	Cellulophaga sp. HaHa_2_1	LH		cell
+	Cellulophaga sp. MM#3	LH		cell
+	Connochaetes taurinus			
+	Cronobacter sakazakii			
+	Drosophila melanogaster			
+CLO	Enterobacter cloacae	IS		
+CLO	Enterobacter cloacae ATCC 13047	IS		
+	Escherichia coli 55989			
+	Escherichia coli APEC BEN3573			
+	Escherichia coli APEC BEN4358			
+	Escherichia coli K12			
+	Escherichia coli MG1655			
+	Escherichia coli O1 Strain ECL20885			
+	Escherichia coli O17:H18			
+	Escherichia coli O2 Strain ECL21443			
+	HER 414			
+	HEp			
+	Halorubrum sp. B2-2	LH		B2
+	Hamsters			
+	Leptolyngbya boryana IU 594	LH		NA
+	MDCK-P2 passage(s)	LH		mdck
+	MDCK1/E1 passage(s)	LH		mdck
+	MDCKC passage(s)	LH		mdck
+	MKx,MDCK1 passage(s)	LH		mdck
+	MVPK			
+kidney	Madin Derby Canine Kidney Cell (MDCK)	LH/IS		cell
+FEC	Medium MRC-5 infected cells	LH/IS		cell
+	Mesocricetus auratus BHK21 cell line	LH		BHK
+ns	Microbacterium radiodurans NRRL B-24799	IS		
+organ	Morganella morganii	IS		
+	Mus musculus (3 passages)	MANUAL	Mus musculus	passage
+	Mus musculus, 1st passage	MANUAL	Mus musculus	passage
+	Muscovy duck embryonic fibroblasts	LH		fibroblast
+	Mycobacterium abscessus CCUG48898T			
+	Mycobacterium chelonae ATCC 35752_DMP1	LH		NA
+	Mycobacterium smegmatis			
+	Mycobacterium smegmatis MC2 155			
+	Mycobacterium smegmatis SN2			
+	Neuro-2A (NA) cell	LH		cell
+	Nicotiana bethamiana	LH		NA
+kidney	Norden dog kidney cell line NL-DK1	LH/IS		cell
+	ORIG passage(s)	LH		passage
+kidney	Owl monkey kidney cells	LH/IS		cell
+	P- 4 passage(s)	LH		passage
+	PPK,CV,pig's bone marrow			
+	PPK-66/B,pig's bone marrow			
+	Paenibacillus larvae 2006			
+	Paenibacillus larvae F2B			
+	Paenibacillus larvae TP			
+	Passage History: C6/36 2	LH		c6/36
+	Physalis floridana	LH		NA
+	Proteus mirabilis			
+	Proteus mirabilis ATCC 7002			
+NAS	Pseudomonas fluorescens UFV 041	LH/IS		NA
+	R2/C1 passage(s)	LH		passage
+	RD-A cells	LH		cell
+	RK-13 cell line	LH		cell
+	RMK,MDCK passage(s)	LH		mdck
+	RMK2, MDCK2 passage(s)	LH		mdck
+	RMx,MDCK1 passage(s)	LH		mdck
+	Recombinant virus	LH		NA
+heart	Russell's viper heart	IS		
+	SM3, Vero1	LH		vero
+	SM3B1			
+	SM6			
+	SM7, Vero1	LH		vero
+	SM9, BHK1, VERO2	LH		BHK
+	SPF Egg	LH		egg
+	SPF eggs	LH		egg
+	SPF embryonated chicken egg	LH		egg
+	SPFCK2 E3 passage(s)	LH		e3
+	SPFCK3 E3 passage(s)	LH		e3
+	SPFCK3 E4 passage(s)	LH		passage
+	SPFCK3, E3 passage(s)	LH		e3
+	SPFCK3,E4 passage(s)	LH		passage
+	SPFCK3,SPF1 passage(s)	LH		passage
+	Salmonella			
+	Salmonella enterica subsp. enterica serovar Typhimurium			
+	Salmonella enterica subsp. enterica serovar Typhimurium ATCC14028			
+	Sinorhizobium meliloti NRRL L-50			
+	Spfck2E4 passage(s)	LH		passage
+	Staphylococcus epidermidis COB-Sec1			
+	Staphylococcus pseudintermedius AZM64			
+	Synechococcus A10-1-S-9			
+	TN10			
+ns	Tetragonia expansa	IS		
+kidney	VERO cells (kidney epithelial cells, African green monkey (Chlorocebus sp))	LH/IS		cell
+	VERO-cells	LH		cell
+	Vero 81	LH		vero
+	Vero E6, passage 3	LH		passage
+lung	Vero cells, Human embryonic lung cells	LH/IS		cell
+	Vero-9	LH		vero
+	Vero.Dog SLAM cells	LH		cell
+spleen	WSS-2 (white sturgeon spleen) cell line	LH/IS		cell
+kidney	beluga whale kidney cells	LH/IS		cell
+	bos taurus			
+lung	bovine fetal lung cell	LH/IS		cell
+	brucella abortus 141	LH		cell
+	c6/36	LH		c6/36
+	cell line B95a	LH		b95a
+	cell line C6/36	LH		c6/36
+	cell lines VH-2 and IgH-2	LH		cell
+	chick embryo cell	LH		cell
+	chicken embryo cells	LH		cell
+	chicken embryo chorioallantoic membrane	LH		chicken embryo
+	chicken embryo fibroblast	LH		chicken embryo
+	chicken embryo fibroblasts	LH		chicken embryo
+	chicken embryo fibroblasts (CEF) cell	LH		cell
+	chicken embryonated egg	LH		chicken embryo
+	chicken embryonated eggs 3rd passage	LH		chicken embryo
+	chicken embryonic cell line bF1	LH		cell
+kidney	chicken kidney cell; CKC	LH/IS		cell
+	chimeric mouse; female	MANUAL	mouse	
+	chimeric mouse; male	MANUAL	mouse	
+	ci passage(s)	LH		passage
+	domestic cat			
+	embryonated chicken eggs passage 1CE-3dpi	LH		egg
+	embryonated turkey eggs (21 day)	LH		egg
+	fibroblasts,pig's bone marrow	LH		fibroblast
+	goose embryo hepatocytes			
+	hepatocellular carcinoma cell line HCC36	LH		cell
+	human fibroblasts	LH		fibroblast
+	human intestinal cell line ATCC CCL-6	LH		cell
+	i-68 cell line	LH		cell
+brain	infant mouse brain	MANUAL	mouse	
+FEC	infected BHK-21 cells	LH/IS		BHK
+	laboratory prepared mutant			
+kidney	lamb kidney cells	LH/IS		cell
+	lamb testis, 2nd passage	LH		passage
+lung	lung tissue	IS		
+	macrophages			
+	mice	MANUAL	mice	
+	mouse L cells	MANUAL	mouse	cell
+	mouse l (variant A-9) cell	MANUAL	mouse	cell
+OF	mouse neuroblastoma cells of A/J mouse origin	MANUAL	mouse	cell
+NAS	nude mouse-passaged nasopharyngeal carcinoma tissues	MANUAL	mouse	NA
+tissue	paraffin-embedded tissue	IS		
+	passage 1 on VERO cells	LH		cell
+	pig			
+kidney	porcine embryo kidney (PS) cells, 2nd passage	LH/IS		cell
+kidney	porcine kidney (PK-15) cells	LH/IS		cell
+kidney	porcine kidney cell line	LH/IS		cell
+	primary CEL cells	LH		cell
+kidney	primary beluga whale (Delphinapterus leucas) kidney (BWK) cells	LH/IS		cell
+kidney	primary equine fetal kidney cells - prmEqFK	LH/IS		cell
+	primary rhesus macaque fibroblasts	LH		fibroblast
+	quail 6, chicken 4 passage(s)	LH		passage
+	rabbit			
+	rainbow trout from aquaculture			
+	rat			
+	rat primary fibroblasts	LH		fibroblast
+serum	serum	IS		
+lung	squirrel monkey lung cells (DSPO 114/74; ATCC CCL-194)	LH/IS		cell
+	suckling mice, second passage	MANUAL	mice	passage
+	suckling newborn mice	MANUAL	mice	
+	swine testicle (ST) cells	LH		cell
+	swine testicular cells (ATCC CRL-1746)	LH		cell
+tissue	tissue culture HEp-2	LH/IS		hep-2
+ns	transformed human cells	LH/IS		cell
+kidney	transformed human embryonic kidney cells	LH/IS		cell
+	uncultured Myriapoda pool			
+	unknown			
+	vero 1, CEK 1, egg 2 passage(s)	LH		egg
+	vero E6	LH		vero
+	10-day-old embryonated chicken eggs	LH		egg
+ns	13 weeks old Branta canadensis (Canada goose)	LH/IS		NA
+	A4C2/9k,pig's bone marrow,LS			
+	A4C2/9k,pig`s bone marrow,LS			
+	ATCC CRL-1739 cells	LH		cell
+	Acinetobacter baumannii 1971			
+	Acinetobacter baumannii 703			
+	Acinetobacter baumannii MRSN 423159			
+	Aedes albopictus C6/36 cells	LH		c6/36
+	Aedes albopictus cell line	LH		cell
+	Aedes albopictus cells	LH		cell
+CLO	Aedes albopictus clone C6/36 cells	LH/IS		c6/36
+	Aedes albopictus cultured cell line C6/36	LH		c6/36
+kidney	African green monkey kidney (bsc-1) cells	LH/IS		cell
+kidney	African green monkey kidney epithelium Vero cells	LH/IS		cell
+	Arthrobacter atrocyaneus NRRL B-2883			
+	B-cell line JY	LH		cell
+	B95A cells	LH		b95a
+	B95a cell line	LH		b95a
+BAL	BALB/c mice	MANUAL	mice	
+	BC-2 cells	LH		cell
+	BCBL-1 cells	LH		cell
+	BGMK cells	LH		bgm
+	BHK P64	LH		BHK
+	BHK, 1 passage	LH		BHK
+	BHK-1 cells	LH		BHK
+	BHK-21 cell; mosquito C6/36 cell	LH		BHK
+	BHK-21 cells (ATCC CCL-10)	LH		BHK
+	BHK-21 cells passage 8	LH		BHK
+	BHK21	LH		BHK
+	BHK21 cell	LH		BHK
+	BHK21 cell line	LH		BHK
+	BHKP51	LH		BHK
+ns	BRSL-NSRI	IS		
+	BSC-1 and PLC/PRF/5			
+	BT cells	LH		cell
+	Bacillus anthracis sterne			
+	Bacillus sp. 203			
+	Bacillus sp. ET1			
+	Bacillus subtilis 9/3			
+	Bacillus subtilis Delta6			
+ns	Bacillus thuringiensis strain ATCC10792	IS		
+ns	Bacillus thuringiensis subsp. kurstaki ATCC 33679	IS		
+	Brucella abortus 544	LH		cell
+	Brucella canis	LH		cell
+	Brucella inopinata strain BO1	LH		cell
+ns	Brucella melitensis	LH/IS		cell
+ns	Brucella melitensis 16M	LH/IS		cell
+	Brucella suis S708	LH		cell
+	Buffalo			
+	Burkholderia pseudomallei Bp82			
+	Burkitt lymphoma cell line Jijoye	LH		cell
+	Burkitt lymphoma cell line Raji	LH		cell
+	C1/C2 passage(s)	LH		passage
+	C1300/BHK-21	LH		BHK
+	C3/E1 passage(s)	LH		passage
+	C4/C1 passage(s)	LH		passage
+	C6-36 cells	LH		c6-36
+	C6/36 Aedes albopictus cells; passage 3	LH		c6/36
+	C6/36 Mosquito cell line, passage2	LH		c6/36
+	C6/36 cells passage 1	LH		c6/36
+	CA46 Burkitt lymphoma cell line	LH		cell
+	CEF			
+	CEF cells	LH		cell
+	CHO-K1 cells	LH		cell
+	CHSE-214 cell line	LH		cell
+	CIK			
+	CPK cell line	LH		cell
+	CV-1 cells	LH		cell
+	Caco2			
+	Callithrix jacchus B-lymphocyte cell line B95-8	LH		cell
+	Callithrix jacchus B95a cell line	LH		b95a
+	Calu-3			
+kidney	Canis familiaris Madin-Darby kidney cells (type I)	LH/IS		Canis familiaris
+	Canis lupus familiaris MDCK cell 6 passaged	LH		cell
+	Caulobacter vibrioides CB15			
+	Cell culture	LH		cell
+	Cell culture attenuated vaccine	LH		cell
+BAL	Cellulophaga baltica #10	LH/IS		cell
+BAL	Cellulophaga baltica #14	LH/IS		cell
+BAL	Cellulophaga baltica #4	LH/IS		cell
+BAL	Cellulophaga baltica '#3 r phiST'	LH/IS		cell
+BAL	Cellulophaga baltica NN014847	LH/IS		cell
+BAL	Cellulophaga baltica NN015839	LH/IS		cell
+BAL	Cellulophaga baltica NN015840	LH/IS		cell
+BAL	Cellulophaga baltica OL12a	LH/IS		cell
+	Cellulosimicrobium sp.	LH		cell
+	Cercopithecus aethiops (vero cells)	LH		cell
+kidney	Ceropithicus aethiops kidney epithelial cells	LH/IS		cell
+	Chinese hamster ovary (CHO) cell	LH		cell
+	Chlorocebus Aethiops Vero cells	LH		cell
+OF	Chorioallantoic membrane of embryonated eggs	LH/IS		egg
+CLO	Clostridioides difficile CD08011	IS		
+CLO	Clostridioides difficile CD2301	IS		
+CLO	Clostridioides difficile CD522418	IS		
+	Colocasia esculenta			
+	Corynebacterium glutamicum MB001			
+	Corynebacterium vitaeruminis CAG1			
+	Cowpea (Pusa Komal)			
+	Cowpea (Vigna unguiculata)	LH		NA
+	Cowpea cv. Pusa Komal			
+kidney	Crandell-Rees feline kidney cell line	LH/IS		cell
+kidney	Ctenopharyngodon idellus kidney (CIK) cells	LH/IS		cell
+	Culex tarsalis cell line	LH		cell
+	Culicoides variipennis KC cells	LH		cell
+	D.S. He			
+	DF-1 cell	LH		cell
+	E1 pagg passage(s)	LH		passage
+	E2/E3 passage(s)	LH		e3
+	E2/E7 passage(s)	LH		passage
+	E8/E1 passage(s)	LH		passage
+	ED cells	LH		cell
+	EPC			
+	EPC cells	LH		cell
+	Enterobacter hormaechei			
+	Enterococcus gallinarum	LH		NA
+	Escherichia coli APEC BEN3992			
+	Escherichia coli BL21(DE3)	LH		e3
+	Escherichia coli C1a			
+	Escherichia coli CN13			
+	Escherichia coli DH5alpha			
+	Escherichia coli ECOR13			
+	Escherichia coli ECOR19			
+	Escherichia coli ECOR34			
+	Escherichia coli ECOR36			
+	Escherichia coli ESBL058			
+	Escherichia coli HB101 K12			
+	Escherichia coli K-12			
+	Escherichia coli K-12 MG1655			
+	Escherichia coli K12 MG1655			
+	Escherichia coli KMB972			
+	Escherichia coli MC1061			
+	Escherichia coli O108:H2			
+	Escherichia coli O140:H21			
+	Escherichia coli O157:H7 Sakai			
+	Escherichia coli O163:H19			
+	Escherichia coli O26:H11			
+	Escherichia coli UCS2			
+	Escherichia coli o157:H7			
+	Escherichia colii			
+	F-81			
+	F81 cell	LH		cell
+	FLK cells	LH		cell
+	FRhK-4 cells	LH		cell
+	FRhK4 cell culture	LH		cell
+	Felis catus; cell line: CrFK	LH		cell
+ns	Fragaria vesca UC-5, Nicotiana occidentalis subsp. obliqua P1 and Physalis pubescens	LH/IS		NA
+	GMK (permanent cell line)	LH		cell
+	Gallus gallus (chicken)			
+	Gallus gallus domesticus			
+	Gallus gallus embryo fibroblast cell	LH		cell
+	Gallus gallus embryonating egg	LH		egg
+kidney	Gallus gallus kidney cells	LH/IS		cell
+kidney	Gallus gallus primary kidney cells	LH/IS		cell
+	Gallus gallus, chicken embryo fibroblasts	LH		chicken embryo
+kidney	Georgia Bovine Kidney cells	LH/IS		cell
+	Gordonia rubripertincta NRRL-16540	LH		RD
+	Gordonia sp.	LH		RD
+	H1 HeLa	LH		hela
+FEC	H5dl309 infected HeLa cells	LH/IS		cell
+	HEK,MDCK passage(s)	LH		mdck
+	HEK2, HEK1, MDCK passage(s)	LH		mdck
+	HEK2, MDCK1 passage(s)	LH		mdck
+	HEK293-C34 cell	LH		cell
+	HEL cell	LH		cell
+	HEL fibroblast cells	LH		cell
+	HEp 2c cells	LH		cell
+	HEp-2 cell line	LH		cell
+	HEp-2c cells	LH		cell
+	HMC			
+	HRT-18 cell	LH		cell
+	HRT-18G cells	LH		cell
+	Hafnia alvei			
+	Hela cells	LH		cell
+	Helicobacter pylori 11507			
+ns	Homo sapiens 7 month old boy	IS		
+ns	Homo sapiens C666-1 cell line	LH/IS		cell
+ns	Homo sapiens K562 cells	LH/IS		cell
+ns	Homo sapiens PLC/PRF/5 cells	LH/IS		cell
+ns	Homo sapiens Raji cell line	LH/IS		cell
+ns	Homo sapiens hepatoma cell line PLC/PRF/5	LH/IS		cell
+ns	Homo sapiens measles patient mononuclear cells	LH/IS		cell
+ns	Homo sapiens, cell line: LLC-MK2	LH/IS		cell
+ns	Homo sapiens, hepatoma cell line PLC/PRF/5	LH/IS		cell
+	IAL SPH158615			
+	IAL SPH158646			
+	IAL SPH162923			
+	IAL SPH163022			
+	IAL SPH163361			
+	IAL SPH163743			
+	IAL SPH164954			
+	IAL SPH165358			
+	IAL SPH166877			
+	IAL SPH167178			
+	IAL SPH167200			
+	IAL SPH167307			
+	IAL SPH168330			
+	IAL SPH172702			
+	IAL SPH172708			
+	IAL SPH173963			
+	IAL SPH182774			
+	IAL SPH182803			
+	IAL SPH182896			
+	IAL SPH182931			
+	IAL SPH183745			
+	IAL SPH184508			
+	IB-RS2 cell line	LH		cell
+	IBRS			
+	IBRS2			
+	IZSM_MEV_Lab			
+	KB cells	LH		cell
+	KMB 17 cells	LH		cell
+	KMB-17 cells	LH		cell
+	KMB17			
+ns	Klebsiella michiganensis PS_Koxy2	IS		
+ns	Klebsiella michiganensis PS_Koxy4	IS		
+	Klebsiella pneumonia			
+	Klebsiella pneumoniae 737			
+	Klebsiella pneumoniae ATCC 13883			
+	Klebsiella pneumoniae CCCD-K001			
+	Klebsiella pneumoniae KX			
+	Klebsiella pneumoniae KY			
+	Klebsiella pneumoniae TCU_KP_37			
+	Klebsiella quasipneumoniae MRSN 829456			
+	L-M cell	LH		cell
+	LFBK Alpha V Beta 6			
+	LLC, MDCK passage(s)	LH		mdck
+	LLC-MK2 cells; passage 1	LH		cell
+FEC	LLC-MK2 infected cells	LH/IS		cell
+	LLC-MK2, Vero E6, and C6/36 cells	LH		c6/36
+	LLC-MK2, Vero cell culture	LH		cell
+	LLCMK2			
+	LVM FMRP 01.1			
+ns	Lepus granatensis; sex: female	LH/IS		NA
+	Listeria monocytogenes CRIFS culture collection			
+	Lysinibacillus fusiformis			
+	M/C1 passage(s)	LH		passage
+	M1/C2 passage(s)	LH		passage
+	M1V2B2	LH		B2
+	M3C3 passage(s)	LH		passage
+	M5EX passage(s)	LH		passage
+	MA-104 cell line	LH		cell
+	MA104 monkey cells	LH		cell
+	MCF 7			
+	MD4 passage(s)	LH		passage
+	MD6 passage(s)	LH		passage
+kidney	MDBK (Madin-Darby bovine kidney) cells	LH/IS		cell
+	MDBK cell line ATCC CCL-22	LH		cell
+	MDBK cells, 3rd passage	LH		cell
+	MDCK cell	LH		cell
+	MDCK pass, RhMK 1 passage(s)	LH		mdck
+	MDCK1, egg passage(s)	LH		egg
+	MDR Escherichia coli 11			
+	MRC5 cells	LH		cell
+	MVPK2			
+	MX/C2 passage(s)	LH		passage
+	MXCX/C1 passage(s)	LH		passage
+	MacT-Cre cells	LH		cell
+kidney	Maden Darby canine kidney cell line	LH/IS		cell
+kidney	Madin-Darby bovine kidney cells	LH/IS		cell
+	Mammalian cell lines	LH		cell
+FEC	Medium BGM infected cells	LH/IS		bgm
+FEC	Medium BHK-21 infected cells	LH/IS		BHK
+FEC	Medium Rabdomiosarcoma infected cells	LH/IS		cell
+	Meleagris gallopavo			
+	Mesocricetus auratus BHK cells	LH		BHK
+	Microbacterium foliorum NRRL-24224			
+ns	Microbacterium paraoxydans NWU1	IS		
+	Microbacterium sp. Casco Bay			
+	Mosquito C6/36 cells	LH		c6/36
+	Mouse L cell	MANUAL	mouse	cell
+	Mus musculus (2 passages)	MANUAL	Mus musculus	passage
+	Mus musculus and VeroE6/TMPRSS2	MANUAL	Mus musculus	vero
+	Mus musculus, 2nd passage	MANUAL	Mus musculus	passage
+	Mus musculus, 3rd passage	MANUAL	Mus musculus	passage
+	Mus musculus, MNA cell line	MANUAL	Mus musculus	cell
+	Muscovy duck embryonated eggs	LH		egg
+	Mustela putorius furo			
+	Mustela putorius furo (Ferret)			
+	Mycobacterium abscessus BWHA			
+	Mycobacterium abscessus T37			
+	Mycobacterium abscessus T48			
+	Mycobacterium abscessus T50			
+	Mycobacterium mc2 155			
+	Mycolicobacterium smegmatis mc2 155			
+	Myxococcus xanthus DK1680			
+	Myxococcus xanthus FB			
+	Nicotiana occidentalis	LH		NA
+	Nicotiana rustica and Emilia sonchifolia	LH		NA
+	Nicotiana sylvestris	LH		NA
+	OA3.Ts cells	LH		cell
+	OR/C1 passage(s)	LH		passage
+	OR/E2 passage(s)	LH		passage
+	Oa3.Ts cell line	LH		cell
+	Oriza sativa			
+	Oryctolagus cuniculus algirus; sex: female			
+	P0 passage(s)1 passage(s)	LH		passage
+	P1/C1 passage(s)	LH		passage
+	P2V1B1			
+	P4SM1B1			
+	P9SM1B1			
+	PEL cell line	LH		cell
+	PEL cell line BCBL-1	LH		cell
+	PK15			
+	PKE cells	LH		cell
+	PLC/PRF/5 cell	LH		cell
+kidney	PTK2 potoroo kidney cell line	LH/IS		cell
+	Paenibacillus larvae ATCC 9545			
+	Paenibacillus larvae SV227B			
+	Paenibacillus larvae WAI			
+ns	Pantoea agglomerans	IS		
+	Passage History: Suckling Mouse 2	MANUAL	mouse	passage
+	Passage History: Suckling Mouse 29, Vero 1	MANUAL	mouse	passage
+	Passage History: Suckling Mouse ?, Vero 1	MANUAL	mouse	passage
+	Passage History: Vero 1	LH		passage
+	Passage History: Vero 4, Hamster 1	LH		passage
+	Pectobacterium aroidearum strain MO46a			
+	Pectobacterium carotovorum DSM 30168			
+	Peromyscus leucopus			
+	Petunia hybrida			
+	Pimephales promelas FHM cell line	LH		cell
+	Porcine Alveolar Macrophages			
+liver	Primary chicken embryonic liver cells	LH/IS		cell
+NAS	Prof. Gopal Nath,Department of Microbiology, Institute of Medical Sciences, Banaras Hindu University, Varanasi	LH/IS		NA
+	Proteus mirabiliis			
+NAS	Pseudomonas aeruginosa ATCC 15442	LH/IS		NA
+NAS	Pseudomonas aeruginosa M1C100	LH/IS		NA
+NAS	Pseudomonas aeruginosa M1C37	LH/IS		NA
+NAS	Pseudomonas aeruginosa M1C74	LH/IS		NA
+NAS	Pseudomonas aeruginosa M1C77	LH/IS		NA
+NAS	Pseudomonas aeruginosa PAS429	LH/IS		NA
+NAS	Pseudomonas aeruginosa POCH2	LH/IS		NA
+NAS	Pseudomonas fluorescens	LH/IS		NA
+NAS	Pseudomonas putida	LH/IS		NA
+NAS	Pseudomonas savastanoi pv. glycinea CFBP 2214	LH/IS		NA
+	Pteropus hypomelanus (Island flying-fox)			
+	R1/C2 passage(s)	LH		passage
+	RAW 264.7 cells	LH		cell
+	RAW264.7 cell	LH		cell
+	RD Cells	LH		cell
+	RD human rhabdomyosarcoma	LH		RD
+	RD; L20B	LH		l20b
+	RECC-CU210 (JM10 MDV-harboring lymphoblastoid cell line)	LH		cell
+	RK-13 cells	LH		cell
+	RK13 cells	LH		cell
+	RX/C1 passage(s)	LH		passage
+	Raji cell	LH		cell
+	Raji cell line (ATCC CCL-86) induced for EBV	LH		cell
+	Raoultella planticola			
+	Rattus norvegicus			
+	Rattus norvegicus (laboratory hooded-type rat)			
+	RhMK2, MDCK passage(s)	LH		mdck
+	Rhodococcus erythropolis NRRL B-1574			
+	Ruegeria pomeroyi DSS-3			
+	SK-6, 2 passages	LH		passage
+	SM 2, Vero 1	LH		vero
+	SM1, Vero 4	LH		vero
+	SM1, Vero4	LH		vero
+	SM1B2	LH		B2
+	SM1B3V1			
+	SPF chicken embryo fibroblasts (CEF)	LH		chicken embryo
+	SPF egg	LH		egg
+	SPF embryonated chicken eggs; fifth passage	LH		egg
+	ST			
+	SW 13 cells	LH		cell
+ns	Saguinus oedipus (a cell line established from Epstain-Barr virus transformed marmoset B cells)	LH/IS		cell
+kidney	Saiga kidney cells	LH/IS		cell
+	Salmonella Typhimurium; Escherichia coli			
+	Salmonella enterica serovar Cerro 87			
+	Salmonella enterica serovar Enteritidis EG.SmE1			
+	Salmonella enterica serovar Typhimurium			
+	Salmonella enterica subsp enterica serovar Enteritidis SE PT13A			
+	Salmonella enterica subsp. enterica serovar Anatum strain FSL A4-0525	LH		NA
+	Salmonella enterica subsp. enterica serovar Braenderup strain FSL S5-0373			
+	Salmonella enterica subsp. enterica serovar Corvallis strain FSL R8-0092			
+	Salmonella enterica subsp. enterica serovar Enteritidis ATCC13076			
+	Salmonella enterica subsp. enterica serovar Enteritidis strain FORC_052			
+	Salmonella enterica subsp. enterica serovar Heidelberg strain FSL S5-0455			
+	Salmonella enterica subsp. enterica serovar Infantis strain FSL S5-0506			
+	Salmonella enterica subsp. enterica serovar Javiana strain FSL S5-0406	LH		NA
+	Salmonella enterica subsp. enterica serovar Newport			
+	Salmonella enterica subsp. enterica serovar Oranienburg strain FSL R8-0376			
+	Salmonella enterica subsp. enterica serovar Saintpaul strain FSL S5-0369			
+	Salmonella enterica subsp. enterica serovar Stanley strain FSL S5-0464			
+	Salmonella enterica subsp. enterica serovar Typhimurium strain 85			
+	Salmonella enterica subsp. enterica serovar Typhimurium strain FSL S5-0370			
+	Salmonella sp.			
+	Salmonella typhimurium			
+	Salmonella typhimurium LT2			
+	Scc cell lines	LH		cell
+	Shigella flexneri 17			
+	Specific Pathogen Free Chicken Eggs	LH		egg
+	Spodoptera exigua			
+	Staphylococcus aureus CCM7722			
+	Staphylococcus aureus RN10359			
+	Staphylococcus epidermidis 1457			
+	Staphylococcus epidermidis COB-Sec2			
+	Staphylococcus epidermidis SE456			
+	Staphylococcus hyicus DSM-17421			
+	Staphylococcus pseudintermedius AZM25			
+	Staphylococcus pseudintermedius AZM26			
+	Staphylococcus pseudintermedius AZM30			
+	Staphylococcus pseudintermedius AZM32			
+	Staphylococcus pseudintermedius AZM37			
+	Streptomyces avermitilis			
+	Streptomyces cattleya MA4297; Streptomyces avermitilis			
+OF	Streptomyces griseofuscus ATCC 23916	IS		
+	Streptomyces viridochromogenes DSM40736			
+	Swine cells (e.g. SK-6)	LH		cell
+	Swine testis cells	LH		cell
+	Syncerus caffer			
+	Synechococcus A10-1-S-1			
+	T.O. strain albino mice	MANUAL	mice	
+	TN5B cells	LH		cell
+	TO cells	LH		cell
+	Tehran Resalat Hospital			
+kidney	Transformed human embryonic kidney cells	LH/IS		cell
+	Turkey embryo chorioallantoic membrane			
+	UCSI			
+	VDST cells	LH		cell
+	VER-DOG-SLAM cells	LH		cell
+	VERO E6 cell line	LH		cell
+	VERO E6 cells	LH		cell
+	VERO slam dog	LH		vero
+	Vero CCL81	LH		vero
+	Vero Cells	LH		cell
+	Vero E6 and LLC-MK2 cells	LH		cell
+	Vero E6 cell	LH		cell
+	Vero E6 cell culture	LH		cell
+	Vero E6 cells passage 1	LH		cell
+	Vero E6 cells; passage 1	LH		cell
+tissue	Vero E6 tissue culture, second passage	LH/IS		passage
+	Vero and BHK21 cell lines	LH		BHK
+	Vero cell cultures	LH		cell
+	Vero cell line, passage 50	LH		cell
+	Vero cell line; passage level 1	LH		cell
+	Vero cell line; passage level 5	LH		cell
+	Vero celll line	LH		cell
+	Vero cells (ATCC CTL-1586)	LH		cell
+serum	Vero cells inoculated with human serum	LH/IS		cell
+	Vero host	LH		vero
+	Vero p2	LH		vero
+	Vero-81	LH		vero
+	Vero-E6 Cell	LH		cell
+	Vero-cells	LH		cell
+	Vero.Dog SLAM	LH		vero
+	Vero/ h Slam	LH		vero
+	Vero/E6	LH		vero
+	Vero/Slam	LH		vero
+	Vero/hSLAM cells	LH		cell
+	Vero4 VSD2	LH		vero
+	Vero5 PM3	LH		vero
+	Vero81	LH		vero
+	VeroCCL81	LH		vero
+	Vero_cells	LH		cell
+	Vibrio harveyi strain VH2			
+	Vibrio parahaemolyticus			
+	Vibrio parahaemolyticus VP9			
+	Viruses; dsDNA viruses, no RNA stage; Caudovirales; Siphoviridae	LH		NA
+	WHO Vero	LH		vero
+	WISH cell line CCL25	LH		cell
+	X/C3 passage(s)	LH		passage
+	X1 passage(s)	LH		passage
+	X1/C2 passage(s)	LH		passage
+	X1/X1 passage(s)	LH		passage
+	XM1/C1 passage(s)	LH		passage
+NAS	Xanthomonas euvesicatoria strain 1940	LH/IS		NA
+	avian			
+kidney	baby hamster kidney(BHK)cells	LH/IS		BHK
+	blow hole			
+kidney	bovine kidney cells	LH/IS		cell
+	brucella abortus S19	LH		cell
+	canine			
+	canine PDK cells	LH		cell
+	cell culture C6/36	LH		c6/36
+	cell culture supernatant C6/36	LH		c6/36
+	cell cultured vaccine	LH		cell
+	cell line C33A, 3 passage	LH		cell
+	cell line CEM (T-cells)	LH		cell
+	cell line DU145, 4 passage	LH		cell
+	cell line MCF-7	LH		cell
+	cell line PK-15	LH		cell
+	cell line RD, 4 passage	LH		cell
+	cell line SK-6	LH		cell
+	cell_cultured_vaccine	LH		cell
+	chick			
+kidney	chick embryo kidney (CK) cell	LH/IS		cell
+	chicken egg	LH		egg
+	chicken embryo and MDCK cells	LH		cell
+	chicken embryo cell	LH		cell
+	chicken embryo fibroblast cell line MSB-1	LH		cell
+	chicken embryo/MDCK cell/mouse	MANUAL	mouse	cell
+	chicken embryos	LH		chicken embryo
+liver	chicken embyro liver cell line	LH/IS		cell
+	chicken emryonated eggs	LH		egg
+	chicken hepatoma cell line	LH		cell
+	chimpanzee			
+serum	commercial fetal bovine serum	IS		
+	common magpie (Pica pica) passage #2	LH		passage
+	cord blood macrophages	LH		RD
+	cowpea C-152			
+	cowpea C152			
+	cowpea cv. C-152			
+	cowpea cv. Pusa Komal			
+	culture			
+	dog			
+	domestic pig			
+	domestic pig erythrocytes			
+	duck embryo			
+	eggs	LH		egg
+	embryonated Muscovy duck eggs	LH		egg
+	embryonated SPF chicken eggs	LH		egg
+	embryonated specific-pathogen-free (SPF) chicken eggs	LH		egg
+	embryonating chicken eggs, passage 16	LH		egg
+TRAC	embryonic bovine trachea cells	LH/IS		cell
+	feline embryonic fibroblast	LH		fibroblast
+	ferret			
+	house sparrow (passer domesticus) passage #1	LH		passage
+	human NB-324K cell line	LH		cell
+	human T-cells	LH		cell
+kidney	human embryonic kidney cell line 293A	LH/IS		cell
+kidney	human embryonic kidney cells and human embryonic fibroblasts	LH/IS		cell
+lung	human lung fibroblast cell line	LH/IS		cell
+lung	human primary lung fibroblast cells Fi301	LH/IS		cell
+	iSLK cell line	LH		cell
+FEC	infected Neuro 2a cell line	LH/IS		cell
+	laboratory rat			
+kidney	lamb kidney	IS		
+	lymphoblastoid cell line JY	LH		cell
+	mammalian cell lines	LH		cell
+	mice injected with human skin from biopsy	MANUAL	mice	
+kidney	monkey kidney cells	LH/IS		cell
+	mouse L cell fibroblast	MANUAL	mouse	cell
+brain	mouse brain	MANUAL	mouse	
+brain	mouse brain passage	MANUAL	mouse	passage
+	mouse epithelial cells	MANUAL	mouse	cell
+specimen	original specimen	LH/IS		NA
+	ovine testicular cells ATCC OA3.ts	LH		cell
+	piglets			
+kidney	porcine kidney cell	LH/IS		cell
+kidney	primary chick kidney cell	LH/IS		cell
+kidney	primary chicken kidney cells	LH/IS		cell
+air	primary differentiated human airway epithelial cells	LH/IS		cell
+kidney	primary dog kidney cells	LH/IS		cell
+kidney	primary hamster kidney cells	LH/IS		cell
+	primary lamb testicle cells	LH		cell
+kidney	primary monkey kidney cells	LH/IS		cell
+	primary testis cells	LH		cell
+	primate cell lines	LH		cell
+	pulmonary alveolar macrophage	LH		NA
+	rhabdomyosarcoma cell line	LH		cell
+	rhesus fibroblasts	LH		fibroblast
+brain	scrapie mouse brain cells	MANUAL	mouse	cell
+serum	serum from patient	IS		
+	spCkE1 passage(s)	LH		passage
+	st cells	LH		cell
+OF	sus scrofa	IS		
+	tamarin monkey			
+ns	transformed areolar fibroblast cell line LM	LH/IS		cell
+kidney	transformed human primary embryonal kidney cells	LH/IS		cell
+	uncultured Orthoptera pool			
+	uncultured shrimps pool			
+brain	white mice brain	MANUAL	mice	
