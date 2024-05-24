@@ -123,7 +123,7 @@ def extract_biosample_information(xml_data, genbank_accession):
 
 def main():
 
-        file_path = "/Users/rbhattac/Desktop/Curation/misc/Host_Biosample.csv"  #path to your genome group csv file
+        file_path = "/Users/rbhattac/Desktop/BVBRC_genome-6.csv"  #path to your genome group csv file
         #extract the accession numbers
         accession_numbers = extract_accessions(file_path)
         #accession_numbers=['KT844544']
@@ -146,73 +146,74 @@ def main():
                 #print(accession)
                 print(f"Processing genbank accession {accession}..")
                 record = fetch_genbank_record(accession)
-                if record:
-                    accession_id = accession
-                    # Extract selected genbank metadata information
-                    host_info, lab_host_info, isolation_source, country, collection_date, host_health = extract_genbank_info(record)
-                    #genbank_metadata.append([accession_id, host_info, lab_host_info, isolation_source])
+                if record.annotations["data_file_division"] == "VRL":
+                    if record:
+                        accession_id = accession
+                        # Extract selected genbank metadata information
+                        host_info, lab_host_info, isolation_source, country, collection_date, host_health = extract_genbank_info(record)
+                        #genbank_metadata.append([accession_id, host_info, lab_host_info, isolation_source])
 
-                # Extract BioSample information
-                biosample_accession = get_biosample_accession(accession)
+                    # Extract BioSample information
+                    biosample_accession = get_biosample_accession(accession)
 
-                biosample_host_info = ''  # Initialize host_info
-                biosample_lab_host_info = ''  # Initialize lab_host_info
-                biosample_isolation_source = ''
-                biosample_scientific_names = []  # Initialize biosample_scientific_names
-                bio_accession ='' # Initialize biosample accession
-                biosample_host_health = ''
-                bio_geo_loc = ''
-                bio_collection_date = ''
+                    biosample_host_info = ''  # Initialize host_info
+                    biosample_lab_host_info = ''  # Initialize lab_host_info
+                    biosample_isolation_source = ''
+                    biosample_scientific_names = []  # Initialize biosample_scientific_names
+                    bio_accession ='' # Initialize biosample accession
+                    biosample_host_health = ''
+                    bio_geo_loc = ''
+                    bio_collection_date = ''
 
-                for bioid in biosample_accession:
-                    biosample_xml = get_biosample_record(bioid)
-                    if biosample_xml:
-                        extracted_info = extract_biosample_information(biosample_xml, accession)
-                        if extracted_info:
-                            # Check if attribute is host common name, common name
-                            if 'host_common_name' in extracted_info:
-                                biosample_host_info = extracted_info['host_common_name']
-                            # elif 'common name' in extracted_info:
-                            #   biosample_host_info = extracted_info['common name']
-                            if 'isolation_source' in extracted_info:
-                                biosample_isolation_source = (extracted_info['isolation_source'])
-                            # elif 'isolation_source' in extracted_info:
-                            #   biosample_isolation_source=(extracted_info['isolation_source'])
-                            # Check if attribute is lab_host
-                            if 'lab_host' in extracted_info:
-                                biosample_lab_host_info = extracted_info['lab_host']
-                            # elif 'laboratory_host' in extracted_info:
-                            # biosample_lab_host_info = extracted_info['laboratory_host']
-                            # Check if attribute is host scientific name or scientific_name
-                            if 'host' in extracted_info:
-                                biosample_scientific_names.append(extracted_info['host'])
-                            if 'collection_date' in extracted_info:
-                                bio_collection_date = (extracted_info['collection_date'])
-                            if 'geo_loc_name' in extracted_info:
-                                bio_geo_loc = (extracted_info['geo_loc_name'])
-                            if 'host_health_state' in extracted_info:
-                                biosample_host_health = (extracted_info['host_health_state'])
-                            # elif 'scientific_name' in extracted_info:
-                            #   biosample_scientific_names.append(extracted_info['scientific_name'])
-                            # elif 'host' in extracted_info:
-                            # biosample_scientific_names.append(extracted_info['host'])
-                            # elif 'specific_host' in extracted_info:
-                            # biosample_scientific_names.append(extracted_info['specific_host'])
-                            if 'Biosample_Accession' in extracted_info:
-                                bio_accession = extracted_info['Biosample_Accession']
+                    for bioid in biosample_accession:
+                        biosample_xml = get_biosample_record(bioid)
+                        if biosample_xml:
+                            extracted_info = extract_biosample_information(biosample_xml, accession)
+                            if extracted_info:
+                                # Check if attribute is host common name, common name
+                                if 'host_common_name' in extracted_info:
+                                    biosample_host_info = extracted_info['host_common_name']
+                                # elif 'common name' in extracted_info:
+                                #   biosample_host_info = extracted_info['common name']
+                                if 'isolation_source' in extracted_info:
+                                    biosample_isolation_source = (extracted_info['isolation_source'])
+                                # elif 'isolation_source' in extracted_info:
+                                #   biosample_isolation_source=(extracted_info['isolation_source'])
+                                # Check if attribute is lab_host
+                                if 'lab_host' in extracted_info:
+                                    biosample_lab_host_info = extracted_info['lab_host']
+                                # elif 'laboratory_host' in extracted_info:
+                                # biosample_lab_host_info = extracted_info['laboratory_host']
+                                # Check if attribute is host scientific name or scientific_name
+                                if 'host' in extracted_info:
+                                    biosample_scientific_names.append(extracted_info['host'])
+                                if 'collection_date' in extracted_info:
+                                    bio_collection_date = (extracted_info['collection_date'])
+                                if 'geo_loc_name' in extracted_info:
+                                    bio_geo_loc = (extracted_info['geo_loc_name'])
+                                if 'host_health_state' in extracted_info:
+                                    biosample_host_health = (extracted_info['host_health_state'])
+                                # elif 'scientific_name' in extracted_info:
+                                #   biosample_scientific_names.append(extracted_info['scientific_name'])
+                                # elif 'host' in extracted_info:
+                                # biosample_scientific_names.append(extracted_info['host'])
+                                # elif 'specific_host' in extracted_info:
+                                # biosample_scientific_names.append(extracted_info['specific_host'])
+                                if 'Biosample_Accession' in extracted_info:
+                                    bio_accession = extracted_info['Biosample_Accession']
 
+                            else:
+                                print(f"No information extracted for BioSample accession {biosample_accession}")
                         else:
-                            print(f"No information extracted for BioSample accession {biosample_accession}")
-                    else:
-                        print(f"No record found for BioSample accession {biosample_accession}")
-                # Write data to CSV
-                #csv_writer.writerow([accession, host_info, lab_host_info,isolation_source,bio_accession, biosample_host_info, biosample_lab_host_info,
-                            # ", ".join(biosample_scientific_names), biosample_isolation_source])
-                csv_writer.writerow(
-                    [accession, host_info, lab_host_info, isolation_source, collection_date, country, host_health,
-                     bio_accession, biosample_host_info, biosample_lab_host_info,
-                     (", ".join(biosample_scientific_names)), biosample_isolation_source, bio_collection_date,
-                     bio_geo_loc, biosample_host_health])
+                            print(f"No record found for BioSample accession {biosample_accession}")
+                    # Write data to CSV
+                    #csv_writer.writerow([accession, host_info, lab_host_info,isolation_source,bio_accession, biosample_host_info, biosample_lab_host_info,
+                                # ", ".join(biosample_scientific_names), biosample_isolation_source])
+                    csv_writer.writerow(
+                        [accession, host_info, lab_host_info, isolation_source, collection_date, country, host_health,
+                         bio_accession, biosample_host_info, biosample_lab_host_info,
+                         (", ".join(biosample_scientific_names)), biosample_isolation_source, bio_collection_date,
+                         bio_geo_loc, biosample_host_health])
 
 
 

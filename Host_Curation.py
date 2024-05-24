@@ -50,16 +50,17 @@ def extract_host_info(record):
 
 def main():
 
-    file_path = "/Users/rbhattac/Desktop/BVBRC_genome _group.csv" #path to your genome group csv file
+    file_path = "/Users/rbhattac/Desktop/Curation/misc/test_genome_group.csv" #path to your genome group csv file
     #extract the accession numbers
     accession_numbers = extract_accessions(file_path)
 
     #open the output file to write
-    with open("/Users/rbhattac/Desktop/genbank_records_HOST_and_Lab_host.csv", "w", newline='') as csvfile:
+    with open("/Users/rbhattac/Desktop/test_results_metadata.csv", "w", newline='') as csvfile:
         csv_writer = csv.writer(csvfile)
         # Write header
         csv_writer.writerow(["Accession", "Host", "Lab Host"])
         for accession_number in accession_numbers:
+            print(accession_number)
             record = fetch_genbank_record(accession_number)
             if record:
                 accession = record.id
@@ -67,6 +68,7 @@ def main():
                 host_info, lab_host_info = extract_host_info(record)
                 # Write data to CSV
                 csv_writer.writerow([accession, host_info, lab_host_info])
+
 
 if __name__ == "__main__":
     main()
