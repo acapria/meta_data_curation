@@ -1,5 +1,5 @@
-#Code to obtain metadata from genbank and biosample records given an genbank accession number
-# the input is the bv-brc genome group in csv format
+#Obtain metadata from genbank and biosample records given an genbank accession number
+# the input is the bv-brc genome group in csv format. The accessions are listed with column name "GenBank Accessions"
 
 #developed by @AnnaCapria @RoshniBhattacharya @AbrilZuniga
 
